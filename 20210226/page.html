@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        rect {
+            fill: #31c431
+        }
+
+        rect:hover {
+            fill: red
+        }
+    </style>
+</head>
+
+<body>
+    <svg viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+        <ellipse cx="100" cy="48" rx="20" ry="3" fill="#31c431" />
+        <ellipse cx="55" cy="50" rx="5" ry="10" fill="#31c431" />
+        <ellipse cx="95" cy="50" rx="5" ry="10" fill="#31c431" />
+        <path d="M40,50 A 20 20 0 1 1 110,50 L 40 50" fill="#19d619" stroke="green" stroke-width="2"
+            stroke-linecap="round" />
+        <circle id="c" cx="33" cy="42" r="15" fill="#31c431" />
+        <circle cx="28" cy="38" r="2" fill="black" />
+        <circle cx="39" cy="38" r="2" fill="black" />
+        <rect id="r" x="30" y="50" width="5" height="6" />
+        <path d="M28,45 A 2 2 0 0 0 40,45 " fill="none" stroke="black" stroke-width="2" />
+    </svg>
+    <script>
+        const circle = document.getElementById('c')
+
+        let isGreen = true
+
+        circle.addEventListener('click', () => {
+            isGreen = !isGreen
+            circle.setAttribute('fill', isGreen ? '#31c431' : 'pink')
+        })
+
+    </script>
+</body>
+
+</html>
