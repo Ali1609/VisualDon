@@ -4,9 +4,9 @@ Dès qu'une variable est modifiée les valeurs dépendantes de cette variable so
 ## Utilisation en Javascript
 Mettre sous écoute les différents inputs en utilisant les événements.
 Exemple :
-    inputA.on('input', e => {
-    a = toNum(e.target.value)
-    update()
-    })
+```inputA.on('input', e => {```
+```a = toNum(e.target.value)```
+```update()```
+```})```
 ## Alternative
 Utiliser Svelte et Observable.
