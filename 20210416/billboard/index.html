@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="https://unpkg.com/billboard.js@3.0.2/dist/billboard.min.css" />
+  <script src="https://unpkg.com/billboard.js@3.0.2/dist/billboard.pkgd.min.js"></script>
+</head>
+
+<body>
+  <div id="graph"></div>
+  <script>
+    const villesPop = [
+      {
+        "ville": "Aigle",
+        "nbVoyageurs": 6800
+      },
+      {
+        "ville": "Coppet",
+        "nbVoyageurs": 6400
+      },
+      {
+        "ville": "Gland",
+        "nbVoyageurs": 5500
+      },
+      {
+        "ville": "Lausanne",
+        "nbVoyageurs": 89200
+      },
+      {
+        "ville": "Morges",
+        "nbVoyageurs": 17000
+      },
+      {
+        "ville": "Montreux",
+        "nbVoyageurs": 15800
+      },
+      {
+        "ville": "Nyon",
+        "nbVoyageurs": 15900
+      },
+      {
+        "ville": "Renens VD",
+        "nbVoyageurs": 18300
+      },
+      {
+        "ville": "Vevey",
+        "nbVoyageurs": 21000
+      },
+      {
+        "ville": "Yverdon-les-Bains",
+        "nbVoyageurs": 16800
+      }
+    ]
+
+    bb.generate({
+        bindto: "#graph",
+        data: {
+          json: {
+            //Gare: datas.map(({ nom }) => nom),
+            nbVoyageurs: villesPop.map(({ nbVoyageurs }) => nbVoyageurs),
+          },
+          type: 'bar'
+        },
+        axis: {
+        x: {
+          type: 'category',
+          categories: villesPop.map(({ ville }) => ville),
+        }
+      },
+      })
+  </script>
+</body>
+
+</html>
