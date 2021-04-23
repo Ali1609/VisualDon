@@ -1,0 +1,3933 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-04-23T12:03:32Z"/>
+
+  <node id="30909789" lat="48.5197170" lon="9.0553163">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Institut für Erziehungswissenschaften"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="30909791" lat="48.5191475" lon="9.0495962">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Ludwig-Uhland-Institut"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="30991670" lat="48.5348721" lon="9.0711605">
+    <tag k="addr:city" v="Tübingen"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="72076"/>
+    <tag k="addr:street" v="Sand"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Wilhelm-Schickard-Institut für Informatik"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="34227829" lat="46.1981489" lon="6.1328044">
+    <tag k="addr:city" v="Genève"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Quai Ernest Ansermet"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Sciences II &amp; Sciences III"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-20:00"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="127498398" lat="48.4206167" lon="9.9470045">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Universität Ulm (Campus West)"/>
+    <tag k="operator" v="Ministerium für Wissenschaft, Forschung und Kunst Baden-Württemberg"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="207559055" lat="45.1853595" lon="9.1635008">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università di Pavia - Facoltà di Botanica"/>
+  </node>
+  <node id="220286137" lat="48.5552941" lon="12.1968087">
+    <tag k="amenity" v="university"/>
+    <tag k="check_date" v="2016-08-06"/>
+    <tag k="name" v="Hochschule Landshut / Hochschule für angewandte Wissenschaften"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q1622121"/>
+  </node>
+  <node id="220530088" lat="47.6619215" lon="9.5967617">
+    <tag k="addr:city" v="Tettnang"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="88069"/>
+    <tag k="addr:street" v="Oberhofer Straße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:email" v="info@elektronikschule.de"/>
+    <tag k="contact:fax" v="+49 7542 9372-40"/>
+    <tag k="contact:phone" v="+49 7542 9372-0"/>
+    <tag k="contact:website" v="https://www.elektronikschule.de/"/>
+    <tag k="name" v="Elektronikschule Tettnang"/>
+    <tag k="operator" v="Bodenseekreis"/>
+    <tag k="short_name" v="EST"/>
+  </node>
+  <node id="227835422" lat="45.0520507" lon="7.6818071">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Via Pietro Giuria"/>
+    <tag k="amenity" v="university"/>
+    <tag k="int_name" v="Dept. of Physics"/>
+    <tag k="name" v="Università degli Studi di Torino - Dipartimento di Fisica"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="243846680" lat="48.5831481" lon="7.7728728">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="École de Management"/>
+    <tag k="short_name" v="EM Strasbourg"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009"/>
+    <tag k="wikidata" v="Q1275285"/>
+  </node>
+  <node id="249554065" lat="45.4766270" lon="9.2275004">
+    <tag k="amenity" v="university"/>
+    <tag k="email" v="didattica.agraria@unimi.it"/>
+    <tag k="name" v="Facoltà di Scienze Agrarie e Ambientali"/>
+    <tag k="name:en" v="Faculty of Agricultural and Food Sciences"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-20:00; Sa 08:00-12:00; PH off"/>
+    <tag k="opening_hours:covid19" v="Mo-Fr 07:30-20:00; PH off"/>
+    <tag k="website" v="https://www.unimi.it/it/corsi/facolta-e-scuole/scienze-agrarie-e-alimentari"/>
+  </node>
+  <node id="254318199" lat="44.1447451" lon="12.2399214">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Facoltà di Architettura"/>
+    <tag k="operator" v="Università degli Studi di Bologna"/>
+  </node>
+  <node id="254318200" lat="44.1453355" lon="12.2417255">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Facoltà di Architettura"/>
+    <tag k="operator" v="Università degli Studi di Bologna"/>
+  </node>
+  <node id="254443124" lat="44.1398383" lon="12.2429769">
+    <tag k="addr:city" v="Cesena"/>
+    <tag k="addr:housename" v="Palazzo Mazzini - Marinelli"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="47521"/>
+    <tag k="addr:street" v="Via Sacchi"/>
+    <tag k="amenity" v="university"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Ingegneria e Scienze Informatiche"/>
+  </node>
+  <node id="266071001" lat="47.7966712" lon="13.0497703">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="ÖH Österreichische Hochschülerschaft"/>
+  </node>
+  <node id="274801116" lat="48.0514527" lon="8.2082261">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Hochschule Furtwangen University"/>
+    <tag k="short_name" v="HFU"/>
+    <tag k="website" v="https://www.hs-furtwangen.de/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q529572"/>
+    <tag k="wikipedia" v="de:Hochschule Furtwangen"/>
+  </node>
+  <node id="278236100" lat="43.7165801" lon="10.3887630">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Chimica farmaceutica"/>
+  </node>
+  <node id="280027827" lat="47.1080672" lon="9.5263290">
+    <tag k="addr:city" v="Triesen"/>
+    <tag k="addr:country" v="LI"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="9495"/>
+    <tag k="addr:street" v="Dorfstrasse"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Private Universität im Fürstentum Liechtenstein (UFL)"/>
+    <tag k="wikidata" v="Q2111101"/>
+  </node>
+  <node id="283031238" lat="48.1494272" lon="11.5795225">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:website" v="http://www.physik.uni-muenchen.de/"/>
+    <tag k="name" v="Fakultät für Physik"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="283031240" lat="48.1508643" lon="11.5824286">
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="80539"/>
+    <tag k="addr:street" v="Professor-Huber-Platz"/>
+    <tag k="amenity" v="university"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="customers"/>
+    <tag k="name" v="Juristisches Seminar"/>
+    <tag k="website" v="https://www.jura.uni-muenchen.de/index.html"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="289563581" lat="47.7797534" lon="9.6136558">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="DHBW Ravensburg"/>
+    <tag k="phone" v="+49 751 189992700"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q1262617"/>
+  </node>
+  <node id="291623970" lat="46.7961823" lon="7.1560079">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Université de Fribourg / Universität Freiburg Regina Mundi"/>
+  </node>
+  <node id="291772821" lat="46.7932224" lon="7.1581669">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Université de Fribourg Pérolles"/>
+  </node>
+  <node id="293956939" lat="47.6940173" lon="10.0373714">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Naturwissenschaftlich Technische Akademie Isny"/>
+    <tag k="wikidata" v="Q569899"/>
+  </node>
+  <node id="301816268" lat="48.0556002" lon="8.2034216">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="HFU, Studio"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="304213834" lat="43.7183061" lon="10.9482604">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Urbanistica e Pianificazione"/>
+  </node>
+  <node id="304665165" lat="45.4611907" lon="9.1867230">
+    <tag k="amenity" v="university"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Università degli Studi di Milano"/>
+  </node>
+  <node id="305614014" lat="48.1500233" lon="11.5942831">
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housename" v="Ludwig-Maximilians-Universität"/>
+    <tag k="addr:housenumber" v="67"/>
+    <tag k="addr:postcode" v="80538"/>
+    <tag k="addr:street" v="Oettingenstraße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Ludwig-Maximilians-Universität"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="website" v="https://www.uni-muenchen.de/"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="310064912" lat="48.0528508" lon="8.2052705">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="HFU, L-Bau"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="310064914" lat="48.0535244" lon="8.2045616">
+    <tag k="addr:city" v="Furtwangen im Schwarzwald"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="78120"/>
+    <tag k="addr:street" v="Hafnergässle"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="HFU Akademie"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="314725033" lat="47.9917148" lon="7.8480627">
+    <tag k="addr:postcode" v="79098"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Institut für IT im Gesundheitswesen"/>
+  </node>
+  <node id="315534438" lat="48.1044213" lon="11.4594415">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Max-Planck-Institut für Biochemie"/>
+    <tag k="name:de" v="Max-Planck-Institut für Biochemie"/>
+    <tag k="name:en" v="Max Planck Institute of Biochemistry"/>
+    <tag k="website" v="https://www.biochem.mpg.de/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q878218"/>
+    <tag k="wikipedia" v="de:Max-Planck-Institut für Biochemie"/>
+  </node>
+  <node id="321848945" lat="47.6395219" lon="6.8645227">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Faculté de Droit Léon Delarbre"/>
+  </node>
+  <node id="339093139" lat="43.7177172" lon="10.3969459">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Facoltà di Lettere"/>
+  </node>
+  <node id="343487022" lat="44.4897021" lon="11.3480152">
+    <tag k="amenity" v="university"/>
+    <tag k="historic" v="monument"/>
+    <tag k="name" v="Ex Chiesa di Santa Lucia"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="349123758" lat="45.3826670" lon="5.5762690">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Aristote"/>
+  </node>
+  <node id="400886099" lat="46.0235137" lon="8.9172212">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Scuola Universitaria Professionale della Svizzera Italiana SUPSI"/>
+    <tag k="name:zh" v="supsi瑞士南方科技大学，餐厅"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q663984"/>
+    <tag k="wikipedia" v="it:Scuola universitaria professionale della Svizzera italiana"/>
+  </node>
+  <node id="411366244" lat="44.4895493" lon="11.3477119">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Aula Magna di Santa Lucia"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="411366245" lat="44.4899129" lon="11.3484441">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Aula Absidale di Santa Lucia"/>
+  </node>
+  <node id="418774779" lat="47.7632607" lon="9.1765098">
+    <tag k="amenity" v="university"/>
+    <tag k="historic" v="castle"/>
+    <tag k="name" v="Akademie Schloss Rauenstein"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="website" v="https://www.hs-weingarten.de/web/akademie-fuer-wissenschaftliche-weiterbildung/akademie-schloss-rauenstein"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="wikidata" v="Q14912578"/>
+  </node>
+  <node id="440663183" lat="47.2692531" lon="11.3984367">
+    <tag k="addr:city" v="Innsbruck"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="6020"/>
+    <tag k="addr:street" v="Universitätsstraße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="email" v="office@mci.edu"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="name" v="MCI Management Center Innsbruck"/>
+    <tag k="phone" v="+43 512 2070-0"/>
+    <tag k="website" v="https://www.mci.edu/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q684775"/>
+    <tag k="wikipedia" v="de:Management Center Innsbruck"/>
+  </node>
+  <node id="442044036" lat="47.9928537" lon="7.8450509">
+    <tag k="addr:city" v="Freiburg im Breisgau"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="79098"/>
+    <tag k="addr:street" v="Werthmannstraße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:email" v="helmut.mayer@meteo.uni-freiburg.de"/>
+    <tag k="contact:fax" v="+49 761 2033586"/>
+    <tag k="contact:phone" v="+49 761 2033590"/>
+    <tag k="contact:website" v="http://www.meteo.uni-freiburg.de"/>
+    <tag k="description" v="Professur für Umweltmeteorologie, Albert-Ludwigs-Universität Freiburg"/>
+    <tag k="email" v="meteo@meteo.uni-freiburg.de"/>
+    <tag k="fax" v="+49 761 203 3586"/>
+    <tag k="name" v="Professur für Umweltmeteorologie (Hauptgebäude)"/>
+    <tag k="name:de" v="Professur für Umweltmeteorologie (Hauptgebäude)"/>
+    <tag k="name:en" v="Environmental Meteorology (Main Building)"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-13:00"/>
+    <tag k="phone" v="+49 761 203 3590"/>
+    <tag k="website" v="http://www.meteo.uni-freiburg.de"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="454224091" lat="46.0144248" lon="11.0539264">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Fondazione Mach - ex Centro di Ecologia Alpina"/>
+  </node>
+  <node id="477530251" lat="46.5278413" lon="6.5731071">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="IDHEAP"/>
+  </node>
+  <node id="477834919" lat="47.7815883" lon="13.0685205">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Mozarteum"/>
+  </node>
+  <node id="493922841" lat="48.5760609" lon="7.7455817">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Psychiatrie Infantile"/>
+    <tag k="name:de" v="Kinderpsychiatrie"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009"/>
+  </node>
+  <node id="493922844" lat="48.5757982" lon="7.7454959">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Département d'Anesthésiologie"/>
+    <tag k="name:de" v="Anästhesiologie"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009"/>
+  </node>
+  <node id="496999018" lat="44.4132985" lon="8.9277123">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Piazza di Santa Sabina"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Dipartimento di Lingue e Culture Moderne"/>
+  </node>
+  <node id="499618290" lat="45.7208131" lon="4.9180789">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Équipe de Recherche ELICO"/>
+  </node>
+  <node id="520453834" lat="47.0059976" lon="8.3373979">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="IMI-Luzern"/>
+  </node>
+  <node id="549766378" lat="44.4353242" lon="12.1969742">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università di Bologna - Agraria"/>
+  </node>
+  <node id="549766379" lat="44.4342830" lon="12.1963203">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università di Bologna - Scienze Ambientali"/>
+  </node>
+  <node id="551204653" lat="47.8035301" lon="13.0419345">
+    <tag k="addr:housename" v="Altes Mozarteum"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="5020"/>
+    <tag k="addr:street" v="Schwarzstraße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Universität Mozarteum"/>
+    <tag k="operator" v="Universität Mozarteum"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="567450376" lat="45.1871122" lon="9.1568708">
+    <tag k="amenity" v="university"/>
+    <tag k="email" v="urp@unipv.it"/>
+    <tag k="isced:level" v="4"/>
+    <tag k="name" v="Università di Pavia"/>
+    <tag k="phone" v="+39 0382 989898"/>
+    <tag k="start_date" v="1361"/>
+    <tag k="website" v="http://www.unipv.eu/"/>
+    <tag k="wikidata" v="Q219317"/>
+    <tag k="wikipedia" v="it:Università di Pavia"/>
+  </node>
+  <node id="571478721" lat="47.7988767" lon="13.0421220">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Große Aula Universität Salzburg"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="597325755" lat="44.4172206" lon="12.2020486">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università Degli Studi di Bologna"/>
+  </node>
+  <node id="599365855" lat="45.4082503" lon="11.8850352">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Aula studio &quot;Jappelli&quot;"/>
+    <tag k="operator" v="Università di Padova"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="648305796" lat="47.0607119" lon="8.3212715">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Hochschule Luzern"/>
+  </node>
+  <node id="675604501" lat="46.2741822" lon="6.1703644">
+    <tag k="addr:city" v="Versoix"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Route de Suisse"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Institut F.-A. Forel (UNIGE)"/>
+  </node>
+  <node id="681739675" lat="45.1885171" lon="9.1509737">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Istituto di Zoologia Lazzaro Spallanzani"/>
+  </node>
+  <node id="681739726" lat="45.1876014" lon="9.1501047">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Dipartimento di Scienze Fisiologiche e Farmacologiche"/>
+  </node>
+  <node id="686513694" lat="45.1859933" lon="9.1580279">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Palazzo del Mayno"/>
+  </node>
+  <node id="686513697" lat="45.1861444" lon="9.1583966">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Divisione programmazione e gestione acquisti di beni e servizi"/>
+  </node>
+  <node id="687187554" lat="45.1869873" lon="9.1577674">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Facoltà di Scienze Politiche"/>
+  </node>
+  <node id="688426327" lat="48.1056993" lon="11.4607153">
+    <tag k="addr:city" v="Planegg"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="82152"/>
+    <tag k="addr:street" v="Am Klopferspitz"/>
+    <tag k="addr:suburb" v="Martinsried"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Max-Planck-Institut für Neurobiologie"/>
+    <tag k="name:de" v="Max-Planck-Institut für Neurobiologie"/>
+    <tag k="name:en" v="Max Planck Institute of Neurobiology"/>
+    <tag k="website" v="https://www.neuro.mpg.de/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q1471785"/>
+    <tag k="wikipedia" v="de:Max-Planck-Institut für Neurobiologie"/>
+  </node>
+  <node id="749753375" lat="46.8526982" lon="9.5127486">
+    <tag k="addr:city" v="Chur"/>
+    <tag k="addr:country" v="CH"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:postcode" v="7004"/>
+    <tag k="addr:street" v="Pulvermühlestrasse"/>
+    <tag k="alt_name" v="University Of Aplied Sciences Chur"/>
+    <tag k="amenity" v="university"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Fachhochschule Graubünden"/>
+    <tag k="operator" v="Fachhochschule Graubünden"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="website" v="https://www.fhgr.ch/"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="762208519" lat="44.4883444" lon="11.3552933">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università di Bologna - Dipartimento di Arti Visive"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="849800035" lat="44.6877229" lon="10.6688056">
+    <tag k="amenity" v="university"/>
+    <tag k="building" v="public"/>
+    <tag k="name" v="Facoltà di Ingegneria"/>
+  </node>
+  <node id="911983563" lat="45.7371102" lon="8.9063910">
+    <tag k="addr:city" v="Venegono Inferiore"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:postcode" v="21040"/>
+    <tag k="addr:street" v="Via Papa Pio Undicesimo"/>
+    <tag k="amenity" v="university"/>
+    <tag k="email" v="info@seminario.milano.it"/>
+    <tag k="name" v="Seminario Arcivescovile di Milano"/>
+    <tag k="operator" v="Chiesa Cattolica"/>
+    <tag k="phone" v="+39 0331 867111"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="website" v="https://www.seminario.milano.it/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="938109622" lat="45.8162517" lon="8.8286645">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="DICOM - Università degli Studi dell'Insubria"/>
+  </node>
+  <node id="956914354" lat="48.5115122" lon="9.0492579">
+    <tag k="addr:city" v="Tübingen"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="72072"/>
+    <tag k="addr:street" v="Konrad-Adenauer-Straße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Universität Tübingen, Physiologische Ökologie der Tiere"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="964682305" lat="46.2090749" lon="6.1412632">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Haute école d'arts et de design (HEAD)"/>
+  </node>
+  <node id="965900786" lat="44.8333777" lon="11.6263972">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università degli Studi di Ferrara"/>
+    <tag k="wikidata" v="Q955609"/>
+  </node>
+  <node id="966006988" lat="44.8323316" lon="11.6276857">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Facoltà di Lettere e Filosofia"/>
+  </node>
+  <node id="975264548" lat="46.1985541" lon="6.1509888">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Haute école d'art et de design (HEAD)"/>
+    <tag k="name:en" v="Geneva University of Art and Design (HEAD)"/>
+    <tag k="name:fr" v="Haute école d'art et de design (HEAD)"/>
+    <tag k="operator" v="Ville de Genève"/>
+    <tag k="website" v="https://www.hesge.ch/head/"/>
+  </node>
+  <node id="994492350" lat="48.1550564" lon="11.5828372">
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="11a"/>
+    <tag k="addr:postcode" v="80802"/>
+    <tag k="addr:street" v="Leopoldstraße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Rachel Carson Center for Environment and Society"/>
+    <tag k="operator" v="LMU"/>
+    <tag k="website" v="https://www.carsoncenter.uni-muenchen.de/"/>
+  </node>
+  <node id="1120722385" lat="45.4497597" lon="12.1689347">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Ca' Foscari"/>
+  </node>
+  <node id="1128197050" lat="48.1425373" lon="11.5553422">
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:postcode" v="80335"/>
+    <tag k="addr:street" v="Arnulfstraße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="FOM Hochschule Oekonomie Management"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1131357394" lat="46.9575701" lon="7.4258117">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Schweineklinik"/>
+  </node>
+  <node id="1137764663" lat="44.2139961" lon="12.0633540">
+    <tag k="amenity" v="university"/>
+  </node>
+  <node id="1140063628" lat="44.2196507" lon="12.0468676">
+    <tag k="amenity" v="university"/>
+  </node>
+  <node id="1172116313" lat="45.0342752" lon="7.6675409">
+    <tag k="addr:city" v="Torino"/>
+    <tag k="addr:housenumber" v="230"/>
+    <tag k="addr:postcode" v="10126"/>
+    <tag k="addr:street" v="Via Nizza"/>
+    <tag k="amenity" v="university"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Politecnico di Torino – Sede Lingotto"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-20:00"/>
+    <tag k="phone" v="+39 011 090 8888"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1234669427" lat="44.8281934" lon="11.6222365">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Facoltà di Architettura"/>
+  </node>
+  <node id="1251277284" lat="44.8419078" lon="11.6214785">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Dipartimento di Fisica e Scienze della Terra"/>
+  </node>
+  <node id="1251278730" lat="44.8354358" lon="11.6223043">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Facoltà di Economia"/>
+  </node>
+  <node id="1251278963" lat="44.8449757" lon="11.6221755">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Facoltà di Giurisprudenza"/>
+  </node>
+  <node id="1283599989" lat="43.7738210" lon="11.2555890">
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Via Martelli"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Florence Design Academy"/>
+    <tag k="website" v="http://www.florencedesignacademy.com/"/>
+  </node>
+  <node id="1289745955" lat="47.9922710" lon="7.8444116">
+    <tag k="addr:postcode" v="79098"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Rechtswissenschaftliche Fakultät"/>
+  </node>
+  <node id="1289745974" lat="47.9922393" lon="7.8445024">
+    <tag k="addr:postcode" v="79098"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Kriminologie und Wirtschaftsstrafrecht"/>
+  </node>
+  <node id="1301130749" lat="47.0494032" lon="8.2659437">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Hochschule Luzern - Design &amp; Kunst"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1350325559" lat="45.7222138" lon="4.9163911">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="LIRIS"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"/>
+    <tag k="website" v="https://liris.cnrs.fr/presentation/pour-acceder-luniversite-louis-lumiere-lyon-2"/>
+  </node>
+  <node id="1383696769" lat="48.1430668" lon="11.5987673">
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="81675"/>
+    <tag k="addr:street" v="Maria-Theresia-Straße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Graduiertenschule für Ost- und Südosteuropastudien"/>
+    <tag k="operator" v="Ludwig-Maximilians-Universität"/>
+  </node>
+  <node id="1419100971" lat="43.7111658" lon="10.4104268">
+    <tag k="amenity" v="university"/>
+    <tag k="faculty" v="economics"/>
+    <tag k="name" v="Facoltà di Economia"/>
+    <tag k="operator" v="Università di Pisa"/>
+  </node>
+  <node id="1452345270" lat="45.4100179" lon="11.8759111">
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Centro diritti umani - Università di Padova"/>
+  </node>
+  <node id="1459283521" lat="45.4073579" lon="11.8708637">
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Via Accademia"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Accademia Galileiana di Scienze Lettere e Arti"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1473145492" lat="45.4036716" lon="11.8768208">
+    <tag k="addr:city" v="Padova"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="35123"/>
+    <tag k="addr:street" v="Via del Padovanino"/>
+    <tag k="amenity" v="university"/>
+    <tag k="email" v="servizio.dlm@unipd.it"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Ufficio Digital Learning e Multimedia, Università degli Studi di Padova"/>
+  </node>
+  <node id="1494590003" lat="46.1970538" lon="6.1347422">
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Quai Ernest-Ansermet"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="École de physique"/>
+  </node>
+  <node id="1496676785" lat="48.0520762" lon="8.2076889">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Aula"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1502679103" lat="45.4348390" lon="10.9928608">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Accademia di Belle Arti Cignaroli"/>
+  </node>
+  <node id="1502679144" lat="45.4343442" lon="10.9924436">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Facoltà di Giurisprudenza"/>
+  </node>
+  <node id="1539896375" lat="45.1880030" lon="9.1522691">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Facoltà di Economia"/>
+  </node>
+  <node id="1539896378" lat="45.1883925" lon="9.1512392">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Facoltà di Filosofia"/>
+  </node>
+  <node id="1539897724" lat="45.1845738" lon="9.1562119">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Facoltà di Lettere e Filosofia"/>
+  </node>
+  <node id="1590158574" lat="45.9525344" lon="12.6806925">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Consorzio universitario di Pordenone"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1614261813" lat="45.7474229" lon="4.8622826">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Les studios Lumières"/>
+  </node>
+  <node id="1617000773" lat="44.5133200" lon="11.3282674">
+    <tag k="addr:city" v="Bologna"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="40131"/>
+    <tag k="addr:street" v="Via Mario Fantin"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Via Mario Fantin"/>
+  </node>
+  <node id="1622295901" lat="44.5012978" lon="11.3572886">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:email" v="direzione.fisica@unibo.it"/>
+    <tag k="contact:website" v="http://www.df.unibo.it/index.htm"/>
+    <tag k="name" v="Università di Bologna - Dipartimento di Fisica"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1625924206" lat="44.4909970" lon="11.3538015">
+    <tag k="addr:city" v="Bologna"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Strada Maggiore"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Facoltà di Scienze Politiche"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wheelchair:description" v="Chiedere chiavi di ascensore e bagni disabili in portineria. Non tutti accessibili gli studi dei professori"/>
+  </node>
+  <node id="1627376986" lat="44.4962153" lon="11.3554382">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:email" v="cusb.promo2@unibo.it"/>
+    <tag k="contact:fax" v="+39 051 4217329"/>
+    <tag k="contact:phone" v="+39 051 4217324"/>
+    <tag k="contact:website" v="http://www.cusb.unibo.it/CUSB/default.htm"/>
+    <tag k="name" v="CUSB - Centro Universitario Sportivo Bologna"/>
+  </node>
+  <node id="1627376991" lat="44.4967729" lon="11.3552076">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:fax" v="+39 051 20 9 4828"/>
+    <tag k="contact:phone" v="+39 051 2094800"/>
+    <tag k="contact:website" v="http://www.dipmedsanpubb.unibo.it/Dipmedsanpubb/default.htm"/>
+    <tag k="name" v="Università di Bologna - Dipartimento Medicina e Sanità Pubblica"/>
+  </node>
+  <node id="1627376995" lat="44.4962697" lon="11.3539026">
+    <tag k="addr:city" v="Bologna"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Via Francesco Selmi"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:email" v="dipchim.direttore@unibo.it"/>
+    <tag k="contact:fax" v="+39 051 20 9 9456"/>
+    <tag k="contact:phone" v="+39 051 2099450"/>
+    <tag k="contact:website" v="http://www.chimica.unibo.it/"/>
+    <tag k="name" v="Università di Bologna - Dipartimento di Chimica &quot;G. Ciamician&quot;"/>
+    <tag k="operator" v="Università di Bologna"/>
+    <tag k="source" v="UniBo;Comune di Bologna"/>
+    <tag k="website" v="https://chimica.unibo.it/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1627376999" lat="44.4961229" lon="11.3559037">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:website" v="http://www2.fci.unibo.it/~dcor/index.html"/>
+    <tag k="name" v="Università di Bologna - Dipartimento di Chimica Organica - Sede Distaccata"/>
+  </node>
+  <node id="1627377003" lat="44.4976069" lon="11.3557399">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università di Bologna - Dipartimento di Geologia"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1627377023" lat="44.4968156" lon="11.3557428">
+    <tag k="addr:city" v="Bologna"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="40126"/>
+    <tag k="addr:street" v="Via San Giacomo"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:email" v="dippatol@alma.unibo.it"/>
+    <tag k="contact:phone" v="+39 051 2094700"/>
+    <tag k="contact:website" v="http://www.patologia-sperimentale.unibo.it/frm-main.php"/>
+    <tag k="name" v="Università di Bologna - Dipartimento di Patologia Sperimentale"/>
+  </node>
+  <node id="1627377024" lat="44.4957661" lon="11.3537357">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:fax" v="+39 051 20 9 9734"/>
+    <tag k="contact:phone" v="+39 051 2099700"/>
+    <tag k="contact:website" v="http://www.dsf.unibo.it/ScienzeFarmaceutiche/default.htm"/>
+    <tag k="name" v="Università di Bologna - Dipartimento di Scienze Farmaceutiche"/>
+  </node>
+  <node id="1627377026" lat="44.4970630" lon="11.3560239">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università di Bologna - Dipartimento di Scienze dell'Informazione"/>
+  </node>
+  <node id="1627377042" lat="44.4972338" lon="11.3564536">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università di Bologna - Aule Ercolani"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1627377047" lat="44.4960520" lon="11.3545049">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università di Bologna - Dipartimento di Scienze Biologiche, Geologiche e Ambientali"/>
+    <tag k="website" v="http://www.bigea.unibo.it"/>
+  </node>
+  <node id="1638063755" lat="44.4876722" lon="11.3295096">
+    <tag k="addr:city" v="Bologna"/>
+    <tag k="addr:district" v="Santo Stefano"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="40136"/>
+    <tag k="addr:street" v="Viale del Risorgimento"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Scuola di Ingegneria e Architettura"/>
+    <tag k="website" v="http://www.engineeringarchitecture.unibo.it"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1638065751" lat="44.4870993" lon="11.3280138">
+    <tag k="amenity" v="university"/>
+  </node>
+  <node id="1677276904" lat="43.7206078" lon="10.4026444">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Scuola Superiore Sant'Anna"/>
+    <tag k="phone" v="+39 050 883111"/>
+    <tag k="wikidata" v="Q774609"/>
+    <tag k="wikipedia" v="it:Scuola superiore di studi universitari e di perfezionamento Sant'Anna"/>
+  </node>
+  <node id="1704277275" lat="44.4977210" lon="11.3521483">
+    <tag k="addr:city" v="Bologna"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:district" v="San Vitale"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:postcode" v="40126"/>
+    <tag k="addr:street" v="Via delle Belle Arti"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università di Bologna - Dipartimento di Scienze Statistiche"/>
+    <tag k="website" v="http://www.stat.unibo.it/it"/>
+  </node>
+  <node id="1704277932" lat="44.4997274" lon="11.3531028">
+    <tag k="addr:city" v="Bologna"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:district" v="San Vitale"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:postcode" v="40126"/>
+    <tag k="addr:street" v="Via Carlo Irnerio"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università degli studi di Bologna FABIT"/>
+    <tag k="source" v="Comune di Bologna"/>
+  </node>
+  <node id="1704548781" lat="44.4668156" lon="11.3466042">
+    <tag k="addr:city" v="Bologna"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:district" v="Santo Stefano"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="40136"/>
+    <tag k="addr:street" v="Via degli Scalini"/>
+    <tag k="alt_name" v="BBS"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Bologna Business School"/>
+    <tag k="source" v="Comune di Bologna"/>
+    <tag k="website" v="https://www.bbs.unibo.it/hp/"/>
+  </node>
+  <node id="1715982941" lat="43.7201299" lon="10.4078976">
+    <tag k="addr:city" v="Pisa"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="56127"/>
+    <tag k="addr:street" v="Largo Bruno Pontecorvo"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Dipartimento di Fisica 'E. Fermi'"/>
+    <tag k="operator" v="University of Pisa"/>
+  </node>
+  <node id="1715982961" lat="43.7203780" lon="10.4082249">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Dipartimento di Informatica"/>
+  </node>
+  <node id="1719398800" lat="48.5352626" lon="9.0705100">
+    <tag k="addr:city" v="Tübingen"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="72076"/>
+    <tag k="addr:street" v="Sand"/>
+    <tag k="alt_name" v="IfK"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Kriminologie"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1732839046" lat="45.6649976" lon="7.6898816">
+    <tag k="addr:city" v="Verres"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="11029"/>
+    <tag k="addr:street" v="Via Luigi Barone"/>
+    <tag k="amenity" v="university"/>
+    <tag k="email" v="segreteria@verres.polito.it"/>
+    <tag k="fax" v="+39 0125 922522"/>
+    <tag k="name" v="Politecnico Di Torino - Sede Decentrata Di Verres"/>
+    <tag k="phone" v="+39 0125 922511;+39 0125 922512"/>
+    <tag k="website" v="http://www.verres.polito.it/"/>
+  </node>
+  <node id="1735448481" lat="44.5024144" lon="11.3350615">
+    <tag k="addr:city" v="Bologna"/>
+    <tag k="addr:housenumber" v="5b"/>
+    <tag k="addr:postcode" v="40122"/>
+    <tag k="addr:street" v="Piazza Pierpaolo Pasolini"/>
+    <tag k="amenity" v="university"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Università di Bologna - DAMSLab - Dipartimento delle Arti"/>
+    <tag k="website" v="http://damslab.unibo.it"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1747624842" lat="48.4865854" lon="8.9417223">
+    <tag k="addr:city" v="Rottenburg am Neckar"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="72108"/>
+    <tag k="addr:street" v="St.-Meinrad-Weg"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Hochschule für Kirchenmusik"/>
+    <tag k="operator" v="Diözese Rottenburg-Stuttgart"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1786322470" lat="44.4002702" lon="8.9631028">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Laboratorio di Geodesia, Geomatica e GIS"/>
+  </node>
+  <node id="1886729833" lat="47.7310170" lon="7.3093505">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Centre Universitaire de Formation des Enseignants et Formateurs"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"/>
+  </node>
+  <node id="1906145274" lat="46.2015910" lon="6.1109613">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="cmefe (inSTI) (hepia)"/>
+  </node>
+  <node id="1908173731" lat="43.8798497" lon="7.4490366">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Collège Jean Médecin"/>
+    <tag k="website" v="https://www.agora06.fr/my.policy"/>
+  </node>
+  <node id="1956435099" lat="44.8366306" lon="11.6324268">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Facoltà di Medicina e Chirurgia"/>
+  </node>
+  <node id="1956435100" lat="44.8372695" lon="11.6316812">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Facoltà di Farmacia"/>
+  </node>
+  <node id="1956436874" lat="44.8340884" lon="11.5984003">
+    <tag k="addr:city" v="Ferrara"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="44122"/>
+    <tag k="addr:street" v="Via Giuseppe Saragat"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Polo Scientifico e Tecnologico"/>
+    <tag k="operator" v="Unife"/>
+    <tag k="phone" v="+39 0532 974924"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1956438074" lat="44.8421875" lon="11.6219080">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Facoltà di Scienze Matematiche, Fisiche e Naturali"/>
+  </node>
+  <node id="1956451290" lat="44.8379894" lon="11.6333899">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Dipartimento di Morfologia, Chirurgia, Medicina sperimentale, Scienze della vita e biotecnologie"/>
+  </node>
+  <node id="1956455563" lat="44.8378373" lon="11.6322741">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Dipartimento di Scienze chimiche e Farmaceutiche"/>
+  </node>
+  <node id="1956459111" lat="44.8369926" lon="11.6319093">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Dipartimento di Scienze biomediche e chirurgico specialistiche"/>
+  </node>
+  <node id="1956461510" lat="44.8323439" lon="11.6211912">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Dipartimento di Studi umanistici"/>
+  </node>
+  <node id="1986154724" lat="43.7657625" lon="11.2493373">
+    <tag k="addr:city" v="Firenze"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="50125"/>
+    <tag k="addr:street" v="Piazza dei Pitti"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Accademia Italiana"/>
+    <tag k="phone" v="+39 055 284616"/>
+    <tag k="website" v="https://www.accademiaitaliana.com/"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="2001139174" lat="48.4829516" lon="9.1876034">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Fakultät Informatik"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2007284118" lat="47.9031314" lon="13.1362379">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Privatuniversität"/>
+  </node>
+  <node id="2018055299" lat="45.0651023" lon="7.6899977">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università di Torino - Dipartimento di Studi Politici"/>
+  </node>
+  <node id="2018055301" lat="45.0636236" lon="7.6887448">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università di Torino - Mineralogia Petrografia Geochimica"/>
+  </node>
+  <node id="2018087957" lat="45.0693441" lon="7.6891162">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università di Torino - Rettorato"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2088994073" lat="44.4977837" lon="11.3529777">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Accademia di Belle Arti"/>
+  </node>
+  <node id="2132258218" lat="44.9995814" lon="7.6824901">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università delle Tre Età"/>
+  </node>
+  <node id="2163974320" lat="46.1765709" lon="6.1388565">
+    <tag k="addr:city" v="Carouge"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Rue de la Tambourine"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Villa de Mathématiques"/>
+  </node>
+  <node id="2177666179" lat="46.1955272" lon="6.1378684">
+    <tag k="addr:city" v="Genève"/>
+    <tag k="addr:country" v="CH"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Passage Daniel Baud-Bovy"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Université de Genève - Baud-Bovy"/>
+    <tag k="note" v="surveyed by Alex-7"/>
+    <tag k="source" v="survey"/>
+    <tag k="survey:date" v="2013-02-27"/>
+  </node>
+  <node id="2297938925" lat="45.4530632" lon="4.3866757">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Pôle optique et vision"/>
+  </node>
+  <node id="2306746828" lat="46.5197320" lon="6.6239129">
+    <tag k="addr:city" v="Lausanne"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Avenue de Savoie"/>
+    <tag k="amenity" v="university"/>
+    <tag k="email" v="info@bnf.ch"/>
+    <tag k="fax" v="+41316315729"/>
+    <tag k="name" v="BNF – Universität Bern"/>
+    <tag k="phone" v="+41316315711"/>
+    <tag k="url" v="http://www.bnf.ch/"/>
+  </node>
+  <node id="2324372275" lat="46.1918919" lon="6.1376391">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Université de Genève - Section de Mathématiques"/>
+  </node>
+  <node id="2330339690" lat="43.7255728" lon="12.6377620">
+    <tag k="addr:city" v="Urbino"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="61029"/>
+    <tag k="addr:street" v="Via Francesco Budassi"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:email" v="claurb@uniurb.it"/>
+    <tag k="contact:fax" v="+39 0722 329606"/>
+    <tag k="contact:phone" v="+39 0722 328597"/>
+    <tag k="contact:website" v="http://www.uniurb.it/cla"/>
+    <tag k="name" v="Centro Linguistico d'Ateneo"/>
+    <tag k="operator" v="Università degli Studi di Urbino Carlo Bo"/>
+  </node>
+  <node id="2330777515" lat="44.6181844" lon="11.8373659">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università degli Studi di Ferrara - Sede di Argenta"/>
+  </node>
+  <node id="2349974653" lat="48.5756208" lon="7.7457105">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:country" v="FR"/>
+    <tag k="contact:email" v="epidemio@unistra.fr"/>
+    <tag k="contact:phone" v="+33 3 68 85 31 95"/>
+    <tag k="contact:website" v="http://epidemio.unistra.fr/"/>
+    <tag k="name" v="Laboratoire d'Épidémiologie et de Santé Publique"/>
+  </node>
+  <node id="2357692260" lat="48.1046716" lon="11.4609666">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Max-Planck-Institut für Biochemie"/>
+    <tag k="name:de" v="Max-Planck-Institut für Biochemie"/>
+    <tag k="name:en" v="Max Planck Institute of Biochemistry"/>
+    <tag k="website" v="https://www.biochem.mpg.de/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q878218"/>
+    <tag k="wikipedia" v="de:Max-Planck-Institut für Biochemie"/>
+  </node>
+  <node id="2361876141" lat="43.8019711" lon="11.2454706">
+    <tag k="addr:city" v="Firenze"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="40/44"/>
+    <tag k="addr:postcode" v="50134"/>
+    <tag k="addr:street" v="Viale Giovan Battista Morgagni"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Centro Didattico Morgagni - Università degli Studi di Firenze"/>
+    <tag k="source" v="Comune di Firenze"/>
+  </node>
+  <node id="2364353403" lat="47.8236171" lon="13.0393487">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Department of Geoinformatics - Z_GIS"/>
+  </node>
+  <node id="2367714253" lat="48.5770554" lon="7.7446762">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Faculté de Chirurgie Dentaire"/>
+    <tag k="name:de" v="Fakultät für Zahnchirurgie"/>
+  </node>
+  <node id="2380485516" lat="43.9211716" lon="12.9080941">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="università"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2388841457" lat="48.6498924" lon="6.1406138">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="IUT Nancy-Brabois Campus de Vandoeuvre"/>
+    <tag k="network" v="Université de Lorraine"/>
+    <tag k="operator" v="Université de Lorraine"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="source" v="Ministère de l'Education nationale, de la Jeunesse et de la Vie associative"/>
+    <tag k="website" v="http://iutnb.univ-lorraine.fr/fr/content/campus-de-vandoeuvre"/>
+  </node>
+  <node id="2392516856" lat="45.7280057" lon="4.8362621">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Institut supérieur d'agriculture et d'agroalimentaire Rhône-Alpes"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="short_name" v="ISARA Lyon"/>
+    <tag k="source" v="data.gouv.fr:Office national d'information sur les enseignements et les professions - 11/2011"/>
+  </node>
+  <node id="2393674253" lat="48.6936842" lon="6.1762326">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:housenumber" v="15"/>
+    <tag k="contact:phone" v="+33 3 54504580"/>
+    <tag k="contact:street" v="Place Carnot"/>
+    <tag k="contact:website" v="http://ceu.univ-lorraine.fr/"/>
+    <tag k="name" v="Centre Européen Universitaire"/>
+    <tag k="operator" v="Université de Lorraine"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="short_name" v="CEU"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2393674254" lat="48.6934791" lon="6.1754461">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:housenumber" v="4"/>
+    <tag k="contact:phone" v="+33 3 54504343"/>
+    <tag k="contact:street" v="Rue de la Ravinelle"/>
+    <tag k="name" v="Institut de Préparation à l'Administration Générale"/>
+    <tag k="operator" v="Université de Lorraine"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="short_name" v="IPAG"/>
+    <tag k="website" v="http://ipag.univ-lorraine.fr/"/>
+  </node>
+  <node id="2426888658" lat="43.7292355" lon="10.4222952">
+    <tag k="addr:city" v="San Giuliano Terme"/>
+    <tag k="addr:housename" v="PERCRO"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="56025"/>
+    <tag k="addr:street" v="Via L. Alamanni"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="PERCRO, Scuola superiore Sant'Anna"/>
+    <tag k="note" v="Laboratory of Perceptual Robotics"/>
+    <tag k="phone" v="+39 050 883111"/>
+    <tag k="website" v="http://www.percro.org"/>
+  </node>
+  <node id="2427156009" lat="47.6664158" lon="9.4443905">
+    <tag k="addr:city" v="Friedrichshafen"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="88045"/>
+    <tag k="addr:street" v="Fallenbrunnen"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Verwaltungsgebäude Zeppelin Universität"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="2427157182" lat="47.6673587" lon="9.4438165">
+    <tag k="addr:city" v="Friedrichshafen"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="88045"/>
+    <tag k="addr:street" v="Fallenbrunnen"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Studentenwohnheim"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="2438975940" lat="48.1313326" lon="11.6152536">
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:postcode" v="81673"/>
+    <tag k="addr:street" v="Berg-am-Laim-Straße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="IUBH - Duales Studium"/>
+    <tag k="operator" v="Internationale Hochschule Bad Honnef · Bonn GmbH"/>
+    <tag k="phone" v="+49 (0)89 - 9213102-10"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="website" v="https://www.iubh-dualesstudium.de/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2443424934" lat="47.5458689" lon="7.5949396">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Fachhochschule Nordwestschweiz Hochschule für Wirtschaft"/>
+  </node>
+  <node id="2457744987" lat="45.1604985" lon="10.7890038">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Politecnico di Milano - Sede di Mantova"/>
+  </node>
+  <node id="2463332403" lat="43.7200603" lon="10.4072125">
+    <tag k="addr:city" v="Pisa"/>
+    <tag k="addr:housename" v="eXploit"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="56127"/>
+    <tag k="addr:street" v="Largo Bruno Pontecorvo"/>
+    <tag k="amenity" v="university"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="int_name" v="Student Rooms"/>
+    <tag k="name" v="Aula AM-1"/>
+    <tag k="operator" v="eXploit"/>
+    <tag k="source" v="local knowledge"/>
+    <tag k="website" v="https://exploitpisa.org/"/>
+  </node>
+  <node id="2485263373" lat="48.1604539" lon="11.5821232">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Ballett-Akademie der Hochschule für Musik und Theater"/>
+  </node>
+  <node id="2489523034" lat="45.4639550" lon="9.1691011">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="2/A"/>
+    <tag k="addr:street" v="Via Morozzo della Rocca"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università Cattolica del Sacro Cuore"/>
+  </node>
+  <node id="2502165040" lat="45.5351031" lon="10.2150274">
+    <tag k="addr:city" v="Brescia"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Contrada Santa Croce"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università Cattolica del Sacro Cuore"/>
+  </node>
+  <node id="2503902059" lat="45.0675807" lon="7.6897297">
+    <tag k="addr:city" v="Torino"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="10123"/>
+    <tag k="addr:street" v="Via Accademia Albertina"/>
+    <tag k="amenity" v="university"/>
+    <tag k="email" v="protocollo@albertina.academy"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Accademia Albertina"/>
+    <tag k="phone" v="+39 011 88 90 20"/>
+    <tag k="website" v="https://www.albertina.academy/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q1168859"/>
+    <tag k="wikipedia" v="it:Accademia Albertina"/>
+  </node>
+  <node id="2512602274" lat="43.6143578" lon="7.0527343">
+    <tag k="addr:city" v="Sophia Antipolis"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="06904"/>
+    <tag k="addr:street" v="Rue Claude Daunesse"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Mines ParisTech"/>
+    <tag k="website" v="http://www.sophia.mines-paristech.fr/"/>
+  </node>
+  <node id="2513030157" lat="48.1566452" lon="11.5760766">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Seniorenstudium (LMU)"/>
+  </node>
+  <node id="2529966718" lat="45.4719418" lon="9.1878197">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Accademia di belle arti di Brera"/>
+    <tag k="wikidata" v="Q338472"/>
+    <tag k="wikipedia" v="it:Accademia di belle arti di Brera"/>
+  </node>
+  <node id="2552334869" lat="45.0481479" lon="9.7017191">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Politecnico di Milano"/>
+  </node>
+  <node id="2557267108" lat="48.1564964" lon="11.5835639">
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="80802"/>
+    <tag k="addr:street" v="Leopoldstraße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="description" v="Serlo.org bietet einfache Erklärungen, Kurse, Lernvideos, Übungen und Musterlösungen mit denen SchülerInnen und Studierende nach ihrem eigenen Bedarf und in ihrem eigenen Tempo lernen können. Die Lernplattform ist komplett kostenlos und werbefrei."/>
+    <tag k="email" v="de@serlo.org"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="name" v="Serlo Education e.V. – Hochschulgruppe der LMU"/>
+    <tag k="operator" v="Serlo Education e.V."/>
+    <tag k="website" v="https://serlo.org/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2558405655" lat="44.3529465" lon="11.7112491">
+    <tag k="addr:city" v="Imola"/>
+    <tag k="addr:housename" v="Palazzo Venieri Vespignani"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="40026"/>
+    <tag k="addr:street" v="Via Giuseppe Garibaldi"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università di Bologna"/>
+    <tag k="website" v="https://www.unibo.it/it/ateneo/sedi-e-strutture/plesso-vespignani"/>
+  </node>
+  <node id="2567287699" lat="46.8475627" lon="9.5098395">
+    <tag k="addr:country" v="CH"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Commercialstrasse"/>
+    <tag k="alt_name" v="University Of Aplied Sciences Chur"/>
+    <tag k="amenity" v="university"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Fachhochschule Graubünden, Standorte D–F"/>
+    <tag k="operator" v="Fachhochschule Graubünden"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="website" v="https://www.fhgr.ch/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2567287708" lat="46.8536992" lon="9.5144139">
+    <tag k="addr:city" v="Chur"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:postcode" v="7000"/>
+    <tag k="addr:street" v="Ringstrasse"/>
+    <tag k="alt_name" v="University Of Aplied Sciences Chur"/>
+    <tag k="amenity" v="university"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Fachhochschule Graubünden, Standort B"/>
+    <tag k="operator" v="Fachhochschule Graubünden"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="website" v="https://www.fhgr.ch/"/>
+  </node>
+  <node id="2568007740" lat="45.4411052" lon="4.4028350">
+    <tag k="addr:city" v="Saint-Etienne"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:postcode" v="42000"/>
+    <tag k="addr:street" v="Rue de la Montat"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Science Po Métropole"/>
+  </node>
+  <node id="2577028412" lat="45.0656773" lon="7.6888859">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Segreteria Studenti MFN"/>
+  </node>
+  <node id="2577029282" lat="45.0652865" lon="7.6882857">
+    <tag k="addr:city" v="Torino"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="10123"/>
+    <tag k="addr:street" v="Via Accademia Albertina"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Dipartimento di Scienze della Vita e Biologia dei Sistemi"/>
+  </node>
+  <node id="2599471774" lat="47.5839578" lon="12.1733215">
+    <tag k="addr:city" v="Kufstein"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="6330"/>
+    <tag k="addr:street" v="Andreas Hofer-Straße"/>
+    <tag k="alt_name" v="FH Kufstein Tirol"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:email" v="info@fh-kufstein.ac.at"/>
+    <tag k="contact:fax" v="+43 5372 71819-104"/>
+    <tag k="contact:phone" v="+43 5372 71819"/>
+    <tag k="contact:website" v="http://www.fh-kufstein.ac.at/"/>
+    <tag k="name" v="Fachhochschule Kufstein Tirol"/>
+    <tag k="short_name" v="FH Kufstein"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2613799108" lat="45.7273996" lon="4.8250374">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Laboratoire P4 Jean Mérieux"/>
+    <tag k="website" v="http://www.cervi-lyon.inserm.fr/"/>
+    <tag k="wikidata" v="Q3359520"/>
+    <tag k="wikipedia" v="fr:P4 Jean Mérieux"/>
+  </node>
+  <node id="2615895568" lat="44.4148861" lon="8.9266707">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università degli Studi di Genova"/>
+    <tag k="wikidata" v="Q593321"/>
+    <tag k="wikipedia" v="it:Università degli Studi di Genova"/>
+  </node>
+  <node id="2621348502" lat="48.7707174" lon="9.1597448">
+    <tag k="addr:city" v="Stuttgart"/>
+    <tag k="addr:housenumber" v="121"/>
+    <tag k="addr:postcode" v="70178"/>
+    <tag k="addr:street" v="Rotebühlstraße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="FOM Hochschule"/>
+    <tag k="operator" v="FOM Hochschule für Oekonomie &amp; Management gemeinnützige Gesellschaft mbH"/>
+  </node>
+  <node id="2661911172" lat="45.4053913" lon="11.8747961">
+    <tag k="addr:city" v="Padova"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="35122"/>
+    <tag k="addr:street" v="Via Giovanni Prati"/>
+    <tag k="alt_name" v="SGSS"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Scuola Galileiana - Segreteria e Direzione"/>
+    <tag k="operator" v="Scuola Galileiana di Studi Superiori"/>
+  </node>
+  <node id="2675864997" lat="46.6765618" lon="5.5493091">
+    <tag k="alt_name" v="IFSI Croix-Rouge française"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:facebook" v="irfss.bfc"/>
+    <tag k="fax" v="+33 3 84 47 54 09"/>
+    <tag k="name" v="IRFSS"/>
+    <tag k="official_name" v="IRFSS Site de Lons le Saunier"/>
+    <tag k="operator" v="Croix-Rouge française"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="operator:wikidata" v="Q3003244"/>
+    <tag k="phone" v="+33 3 84 47 28 87"/>
+    <tag k="ref:FR:FINESS" v="390783504"/>
+    <tag k="ref:FR:SIRET" v="77567227201361"/>
+    <tag k="ref:UAI" v="0390988M"/>
+    <tag k="type:FR:FINESS" v="436"/>
+    <tag k="website" v="https://irfss-bourgogne-franche-comte.croix-rouge.fr/L-Institut-Regional/Site-de-Lons-le-Saunier"/>
+  </node>
+  <node id="2686889749" lat="46.9556272" lon="7.4354422">
+    <tag k="alt_name" v="Institut für Theaterwissenschaft"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Mittelstrasse 43, 3012 Bern"/>
+    <tag k="contact:email" v="sekretariat@itw.unibe.ch"/>
+    <tag k="contact:fax" v="+41 31 6313988"/>
+    <tag k="contact:phone" v="+41 31 6313918"/>
+    <tag k="name" v="Institut Theaterwissenschaft"/>
+    <tag k="name:en" v="Institute of Theater Studies"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-12:00; Sa-Su off"/>
+    <tag k="operator" v="Universität Bern"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="source" v="survey and website"/>
+    <tag k="website" v="https://www.theaterwissenschaft.unibe.ch"/>
+  </node>
+  <node id="2686889750" lat="46.9526537" lon="7.4350973">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Hallerstrasse 8-10, 3012 Bern"/>
+    <tag k="name" v="Berner Fachhochschule BFH - Soziale Arbeit"/>
+    <tag k="operator" v="Berner Fachhochschule"/>
+    <tag k="website" v="http://www.soziale-arbeit.bfh.ch"/>
+  </node>
+  <node id="2686893081" lat="46.9557169" lon="7.4356697">
+    <tag k="alt_name" v="Institut für Musikwissenschaft"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Mittelstrasse 43, 3012 Bern"/>
+    <tag k="contact:email" v="info@musik.unibe.ch"/>
+    <tag k="contact:fax" v="+41 31 6313459"/>
+    <tag k="contact:phone" v="+41 31 6318396"/>
+    <tag k="name" v="Institut Musikwissenschaft"/>
+    <tag k="name:en" v="Institute of Musicology Berne"/>
+    <tag k="name:fr" v="Institut de la musicologie Berne"/>
+    <tag k="name:it" v="Istituto della Musicologia Berna"/>
+    <tag k="operator" v="Universität Bern"/>
+    <tag k="source" v="survey and website"/>
+    <tag k="website" v="https://www.musik.unibe.ch"/>
+  </node>
+  <node id="2701135374" lat="46.9554690" lon="7.4359850">
+    <tag k="alt_name" v="Institut für Archäologische Wissenschaften"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Mittelstrasse 43 3012 Bern"/>
+    <tag k="contact:email" v="sekretariat@iaw.unibe.ch"/>
+    <tag k="contact:fax" v="+41 31 6314905"/>
+    <tag k="contact:phone" v="+41 31 6318992"/>
+    <tag k="name" v="Institut Archäologische Wissenschaften"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-19:00"/>
+    <tag k="operator" v="Universität Bern"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="short_name" v="IAW"/>
+    <tag k="website" v="http://www.iaw.unibe.ch"/>
+  </node>
+  <node id="2712904541" lat="45.4344957" lon="12.3264484">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università Ca' Foscari"/>
+    <tag k="wikidata" v="Q1546906"/>
+  </node>
+  <node id="2714024340" lat="45.0550943" lon="7.6870107">
+    <tag k="addr:city" v="Torino"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Viale Pier Andrea Mattioli"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Dipartimento di Scienze della Vita e Biologia dei Sistemi"/>
+  </node>
+  <node id="2714279712" lat="44.8386160" lon="11.6299124">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Dipartimento di Matematica"/>
+  </node>
+  <node id="2718145792" lat="44.0627251" lon="12.5647776">
+    <tag k="addr:city" v="Rimini"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="237"/>
+    <tag k="addr:postcode" v="47921"/>
+    <tag k="addr:street" v="Corso d'Augusto"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="UniBo - Campus Corso D'Augusto"/>
+    <tag k="note" v="Access is available from the back door https://imgur.com/a/1trVK"/>
+    <tag k="source:wheelchair" v="survey"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2730832382" lat="46.0651376" lon="13.2421743">
+    <tag k="addr:city" v="Udine"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Via Treppo"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:phone" v="+39 0432 249520"/>
+    <tag k="name" v="Dipartimento di Scienze Giuridiche"/>
+    <tag k="website" v="https://www.uniud.it/dipartimenti/disg"/>
+  </node>
+  <node id="2756183897" lat="45.4051513" lon="11.8813508">
+    <tag k="addr:city" v="Padova"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Via Santa Sofia"/>
+    <tag k="alt_name" v="Associazione Studenti Universitari"/>
+    <tag k="amenity" v="university"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="name" v="ASU - Associazione Studenti Universitari"/>
+    <tag k="website" v="https://www.asupadova.it/"/>
+  </node>
+  <node id="2776038314" lat="45.1864981" lon="9.1575608">
+    <tag k="addr:city" v="Pavia"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="27100"/>
+    <tag k="addr:street" v="Piazza Leonardo da Vinci"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Istituto di Geografia"/>
+  </node>
+  <node id="2776349948" lat="46.0667722" lon="11.1230219">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Rettorato - Università di Trento"/>
+  </node>
+  <node id="2794933485" lat="45.4278157" lon="4.4038713">
+    <tag k="addr:housename" v="Centre Henri Fayol"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="École Nationale Supérieure des Mines de Saint-Étienne"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2828871001" lat="44.5017587" lon="11.3583854">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università di Bologna servizio disabili"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2832469755" lat="46.9540565" lon="7.4382553">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Institut Statistik"/>
+    <tag k="source" v="local knowledge"/>
+  </node>
+  <node id="2832469759" lat="46.9621253" lon="7.4319715">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Bremgartenstrasse 145, 3012 Bern"/>
+    <tag k="contact:email" v="info@ispw.unibe.ch"/>
+    <tag k="contact:fax" v="+41 31 6318331"/>
+    <tag k="contact:phone" v="+41 31 6318321"/>
+    <tag k="name" v="Institut Sportwissenschaft"/>
+    <tag k="operator" v="Universität Bern"/>
+    <tag k="source" v="survey and website"/>
+    <tag k="website" v="http://www.ispw.unibe.ch"/>
+  </node>
+  <node id="2872664673" lat="47.8495216" lon="13.3419939">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Research Institute for Limnology, Mondsee - University of Innsbruck"/>
+    <tag k="website" v="http:www.uibk.ac.at/limno"/>
+  </node>
+  <node id="2881572256" lat="43.7755273" lon="11.2603786">
+    <tag k="addr:city" v="Firenze"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="ISIA Firenze"/>
+    <tag k="website" v="http://www.isiadesign.fi.it"/>
+  </node>
+  <node id="2884916649" lat="48.5773480" lon="7.7469755">
+    <tag k="addr:city" v="Strasbourg"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="67000"/>
+    <tag k="addr:street" v="Rue de l'Écarlate"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Sciences Po, IPAG, CEIPI"/>
+    <tag k="short_name" v="IEP"/>
+  </node>
+  <node id="2960715234" lat="45.0173318" lon="7.6414502">
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:street" v="Strada delle Cacce"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="IRPI"/>
+    <tag k="note" v="National Research Council, Research Instute for Geo-hydrological Protection, GeoClimAlp research group."/>
+    <tag k="operator" v="CNR"/>
+    <tag k="website" v="http://geoclimalp.irpi.cnr.it"/>
+  </node>
+  <node id="2973595725" lat="45.6885606" lon="5.9158782">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="École Peyrefite"/>
+  </node>
+  <node id="2978104336" lat="48.7957933" lon="9.7907850">
+    <tag k="amenity" v="university"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="name" v="Staatliches Realschullehrerseminar Schwäbisch Gmünd"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3192771508" lat="46.9536771" lon="7.4405469">
+    <tag k="alt_name" v="Uni Bern"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Engehaldenstrasse 4, 3012 Bern"/>
+    <tag k="contact:email" v="iuc@iuc.unibe.ch"/>
+    <tag k="contact:fax" v="+41 31 6313780"/>
+    <tag k="contact:phone" v="+41 31 6313761"/>
+    <tag k="name" v="Institut Unternehmensrechnung und Controlling"/>
+    <tag k="short_name" v="IUC"/>
+    <tag k="source" v="survey and website"/>
+    <tag k="website" v="http://www.iuc.unibe.ch"/>
+  </node>
+  <node id="3193937761" lat="46.9535317" lon="7.4398007">
+    <tag k="alt_name" v="Uni Bern"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Neubrückstrasse 10, 3012 Bern"/>
+    <tag k="contact:email" v="info@inf.unibe.ch"/>
+    <tag k="contact:phone" v="+41 31 631 86 81"/>
+    <tag k="name" v="Institut Informatik"/>
+    <tag k="operator" v="Universität Bern"/>
+    <tag k="short_name" v="INF"/>
+    <tag k="source" v="survey and website"/>
+    <tag k="website" v="http://www.inf.unibe.ch"/>
+  </node>
+  <node id="3193937762" lat="46.9539712" lon="7.4396991">
+    <tag k="alt_name" v="Uni Bern"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Engehaldenstrasse 8, 3012 Bern"/>
+    <tag k="contact:fax" v="+41 31 6314682"/>
+    <tag k="contact:phone" v="+41 31 6314785"/>
+    <tag k="name" v="Institut Wirtschaftsinformatik"/>
+    <tag k="short_name" v="IWI"/>
+    <tag k="source" v="survey and website"/>
+    <tag k="website" v="http://www.iwi.unibe.ch"/>
+  </node>
+  <node id="3193937764" lat="46.9540596" lon="7.4401458">
+    <tag k="alt_name" v="Uni Bern"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Engehaldenstrasse 4, 3012 Bern"/>
+    <tag k="contact:fax" v="+41 31 6318421"/>
+    <tag k="contact:phone" v="+41 31 6313775"/>
+    <tag k="name" v="Institut Finanzmanagement"/>
+    <tag k="short_name" v="IFM"/>
+    <tag k="source" v="survey and website"/>
+    <tag k="website" v="http://www.ifm.unibe.ch"/>
+  </node>
+  <node id="3193937765" lat="46.9539295" lon="7.4402821">
+    <tag k="alt_name" v="Uni Bern"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Engehaldenstrasse 4, 3012 Bern"/>
+    <tag k="contact:fax" v="+41 31 6318032"/>
+    <tag k="contact:phone" v="+41 31 6318031"/>
+    <tag k="name" v="Institut Marketing und Unternehmensführung"/>
+    <tag k="short_name" v="IMU"/>
+    <tag k="source" v="survey and website"/>
+    <tag k="website" v="http://www.imu.unibe.ch"/>
+  </node>
+  <node id="3193937766" lat="46.9538059" lon="7.4404117">
+    <tag k="alt_name" v="Uni Bern"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Engehaldenstrasse 4, 3012 Bern"/>
+    <tag k="contact:email" v="iop@iop.unibe.ch"/>
+    <tag k="contact:fax" v="+41 31 6318230"/>
+    <tag k="contact:phone" v="+41 31 6318069"/>
+    <tag k="name" v="Institut Organisation und Personal"/>
+    <tag k="short_name" v="IOP"/>
+    <tag k="source" v="survey and website"/>
+    <tag k="website" v="http://www.iop.unibe.ch"/>
+  </node>
+  <node id="3204578997" lat="45.4796418" lon="12.2550534">
+    <tag k="addr:city" v="Venezia"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="153"/>
+    <tag k="addr:place" v="Mestre"/>
+    <tag k="addr:postcode" v="30172"/>
+    <tag k="addr:street" v="Via Torino"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università Iuav di Venezia"/>
+  </node>
+  <node id="3205382999" lat="45.4362961" lon="12.3300248">
+    <tag k="addr:housename" v="Ca' Cappello"/>
+    <tag k="addr:housenumber" v="San Polo 2035"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Ca' Cappello"/>
+    <tag k="source" v="http://www.unive.it/nqcontent.cfm?a_id=1018&amp;id=990017"/>
+  </node>
+  <node id="3208150088" lat="46.0661209" lon="13.2324874">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università di Udine - sede Rettorato"/>
+    <tag k="wikidata" v="Q2307935"/>
+    <tag k="wikipedia" v="it:Università degli Studi di Udine"/>
+  </node>
+  <node id="3213359363" lat="45.5109533" lon="9.2112608">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="U9"/>
+  </node>
+  <node id="3221191592" lat="48.7967539" lon="9.7829856">
+    <tag k="addr:city" v="Schwäbisch Gmünd"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="73525"/>
+    <tag k="addr:street" v="Stuttgarter Straße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Hochschule für Gestaltung - Werkstattgebäude"/>
+    <tag k="website" v="https://www.hfg-gmuend.de/"/>
+  </node>
+  <node id="3241481866" lat="44.5004304" lon="11.3573005">
+    <tag k="addr:city" v="Bologna"/>
+    <tag k="addr:housenumber" v="6/2"/>
+    <tag k="addr:postcode" v="40127"/>
+    <tag k="addr:street" v="Viale Carlo Berti Pichat"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Dipartimento di Fisica e Astronomia"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3241481867" lat="44.5004103" lon="11.3573011">
+    <tag k="addr:city" v="Bologna"/>
+    <tag k="addr:housenumber" v="6/2"/>
+    <tag k="addr:postcode" v="40127"/>
+    <tag k="addr:street" v="Viale Carlo Berti Pichat"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Istituto Nazionale di Fisica Nucleare sez. di Bologna"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3309692829" lat="48.8915231" lon="11.1841443">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Lehrstuhl Tourismus"/>
+  </node>
+  <node id="3363964793" lat="45.0684190" lon="7.6895223">
+    <tag k="addr:city" v="Torino"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Via Po"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Accademia di medicina"/>
+  </node>
+  <node id="3369211190" lat="45.4014718" lon="11.8732276">
+    <tag k="addr:city" v="Padova"/>
+    <tag k="addr:postcode" v="35122"/>
+    <tag k="addr:street" v="Via del Seminario"/>
+    <tag k="alt_name" v="Barbarigo;Istituto vescovile;"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Facoltà teologica del Triveneto"/>
+    <tag k="phone" v="+39 049 664116"/>
+    <tag k="religion" v="christian"/>
+    <tag k="website" v="http://www.fttr.it/"/>
+    <tag k="wikidata" v="Q16555077"/>
+    <tag k="wikipedia" v="it:Facoltà teologica del Triveneto"/>
+  </node>
+  <node id="3378099698" lat="45.4155182" lon="11.8780804">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Cisspat"/>
+  </node>
+  <node id="3385295857" lat="46.9522263" lon="7.4350215">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Hallerstrasse 6, 3012 Bern"/>
+    <tag k="contact:email" v="secretary@issibern.ch"/>
+    <tag k="contact:phone" v="+41 31 6314896"/>
+    <tag k="name" v="International Space Science Institute"/>
+    <tag k="operator" v="University of Bern"/>
+    <tag k="short_name" v="ISSI"/>
+    <tag k="source" v="survey and website"/>
+    <tag k="website" v="http://www.issibern.ch"/>
+    <tag k="wikidata" v="Q6053561"/>
+  </node>
+  <node id="3414243194" lat="48.1413043" lon="11.5780072">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="80333"/>
+    <tag k="addr:street" v="Residenzstraße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="DGFI-TUM"/>
+    <tag k="note" v="Deutsches Geodätisches Forschungsinstitut"/>
+    <tag k="operator" v="Technische Universität München"/>
+    <tag k="website" v="https://www.dgfi.tum.de"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="3416090159" lat="43.6148655" lon="7.0716772">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="EIT Digital"/>
+  </node>
+  <node id="3483952525" lat="43.7166543" lon="10.3988015">
+    <tag k="addr:city" v="Pisa"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:postcode" v="56126"/>
+    <tag k="addr:street" v="Lungarno Antonio Pacinotti"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università di Pisa - Rettorato"/>
+  </node>
+  <node id="3556356546" lat="44.9169868" lon="8.6257725">
+    <tag k="addr:city" v="Alessandria"/>
+    <tag k="addr:housenumber" v="1/A"/>
+    <tag k="addr:postcode" v="15121"/>
+    <tag k="addr:street" v="Via Giuseppe Di Vittorio"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Scienze Infermieristiche"/>
+    <tag k="operator" v="Università degli Studi del Piemonte Orientale"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3588518600" lat="45.7683251" lon="4.8058954">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Université Professionnelle Internationale de Lyon"/>
+  </node>
+  <node id="3588531207" lat="45.7683831" lon="4.8059142">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="IDRAC - École de Commerce et de Management"/>
+    <tag k="short_name" v="IDRAC"/>
+    <tag k="website" v="http://www.ecoles-idrac.com/campus/campus-lyon/"/>
+  </node>
+  <node id="3588534986" lat="45.7684598" lon="4.8059142">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="CEFAM"/>
+    <tag k="phone" v="+33 4 72 85 73 63"/>
+    <tag k="website" v="https://www.cefam.fr/"/>
+  </node>
+  <node id="3611242959" lat="44.4947702" lon="11.3558967">
+    <tag k="addr:city" v="Bologna"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="40126"/>
+    <tag k="addr:street" v="Via Belmeloro"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Johns Hopkins University"/>
+  </node>
+  <node id="3634511305" lat="43.7202811" lon="10.4089115">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Segreterie studenti"/>
+  </node>
+  <node id="3671421729" lat="46.1972358" lon="6.1367660">
+    <tag k="addr:city" v="Genève"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:street" v="Boulevard Carl-Vogt"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Uni Carl Vogt"/>
+  </node>
+  <node id="3695848052" lat="43.7174843" lon="10.3963712">
+    <tag k="addr:city" v="Pisa"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="56126"/>
+    <tag k="addr:street" v="Via Santa Maria"/>
+    <tag k="amenity" v="university"/>
+    <tag k="email" v="info@almaartis.it"/>
+    <tag k="name" v="Alma Artis Academy - Accademia di Belle Arti"/>
+    <tag k="phone" v="+39 3775251997"/>
+    <tag k="website" v="https://www.almaartis.it/"/>
+  </node>
+  <node id="3703348131" lat="45.7487404" lon="4.8366513">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="IUT Jean Moulin Lyon 3"/>
+    <tag k="school:FR" v="IUT"/>
+  </node>
+  <node id="3721860416" lat="45.4109073" lon="11.8949521">
+    <tag k="addr:city" v="Padova"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="35131"/>
+    <tag k="addr:street" v="Via Venezia"/>
+    <tag k="alt_name" v="CLA;CLA Unipd;"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Centro Linguistico di Ateneo"/>
+    <tag k="note" v="Da assegnare a edificio"/>
+    <tag k="operator" v="Università degli Studi di Padova"/>
+    <tag k="phone" v="+39 049 827 6185"/>
+    <tag k="website" v="http://cla.unipd.it/"/>
+  </node>
+  <node id="3730884547" lat="43.6139811" lon="7.0718504">
+    <tag k="addr:city" v="Biot"/>
+    <tag k="addr:housenumber" v="450"/>
+    <tag k="addr:postcode" v="06410"/>
+    <tag k="addr:street" v="Route des Chappes"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Telecom Paris"/>
+    <tag k="website" v="https://www.telecom-paris.fr"/>
+  </node>
+  <node id="3748950860" lat="46.0613862" lon="13.2426028">
+    <tag k="addr:city" v="Udine"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="33100"/>
+    <tag k="addr:street" v="Viale Ungheria"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università degli Studi di Udine - Facoltà di Medicina e Chirurgia - Corsi di Laurea Area Sanitaria"/>
+  </node>
+  <node id="3748952922" lat="46.0675961" lon="13.2399068">
+    <tag k="addr:city" v="Udine"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="33100"/>
+    <tag k="addr:street" v="Via Pracchiuso"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Residenza universitaria delle Grazie"/>
+  </node>
+  <node id="3748979653" lat="46.0679180" lon="13.2301931">
+    <tag k="addr:city" v="Udine"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="33100"/>
+    <tag k="addr:street" v="Via Francesco Mantica"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Uniud - Domus Academica Maria Bambina"/>
+  </node>
+  <node id="3768941157" lat="48.9095338" lon="9.1831892">
+    <tag k="addr:city" v="Ludwigsburg"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:postcode" v="71634"/>
+    <tag k="addr:street" v="Reuteallee"/>
+    <tag k="alt_name" v="HS Ludwigsburg"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Pädagogische Hochschule Ludwigsburg"/>
+    <tag k="name:en" v="Ludwigsburg University of Education"/>
+    <tag k="phone" v="+49 7141 140 0"/>
+    <tag k="short_name" v="PH Ludwigsburg"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="website" v="https://www.ph-ludwigsburg.de/"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q2120211"/>
+    <tag k="wikipedia" v="de:Pädagogische Hochschule Ludwigsburg"/>
+  </node>
+  <node id="3768941158" lat="48.9075467" lon="9.1837186">
+    <tag k="addr:city" v="Ludwigsburg"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:postcode" v="71634"/>
+    <tag k="addr:street" v="Reuteallee"/>
+    <tag k="alt_name" v="HS Ludwigsburg"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Hochschule für öffentliche Verwaltung und Finanzen Ludwigsburg"/>
+    <tag k="name:en" v="University of Applied Sciences Ludwigsburg"/>
+    <tag k="short_name" v="HVF Ludwigsburg"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="website" v="https://www.hs-ludwigsburg.de/"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="wikidata" v="Q1604537"/>
+    <tag k="wikipedia" v="de:Hochschule_für_öffentliche_Verwaltung_und_Finanzen_Ludwigsburg"/>
+  </node>
+  <node id="3811716723" lat="47.3130580" lon="5.0633492">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="21000"/>
+    <tag k="addr:street" v="Boulevard Gabriel"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:phone" v="+33 3 80 39 57 48"/>
+    <tag k="contact:website" v="http://iae.u-bourgogne.fr/"/>
+    <tag k="name" v="Institut d'Administration des Entreprises de Dijon"/>
+    <tag k="ref:UAI" v="0212222B"/>
+    <tag k="short_name" v="IAE Dijon"/>
+    <tag k="source" v="data.gouv.fr:Office national d'information sur les enseignements et les professions - 11/2011;Etablissements d'enseignement supérieur - 09/2017;survey"/>
+    <tag k="wikidata" v="Q3151891"/>
+    <tag k="wikipedia" v="fr:IAE Dijon - École Universitaire de Management"/>
+  </node>
+  <node id="3856374184" lat="47.4107931" lon="8.5402012">
+    <tag k="addr:city" v="Zürich"/>
+    <tag k="addr:housename" v="UZH-AFL"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:postcode" v="8050"/>
+    <tag k="addr:street" v="Affolternstrasse"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Universität Zürich, Oerlikon (AFL)"/>
+  </node>
+  <node id="3865483066" lat="43.7225891" lon="12.6365011">
+    <tag k="addr:city" v="Urbino"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:postcode" v="61029"/>
+    <tag k="addr:street" v="Via Aurelio Saffi"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:email" v="segreteria.desp@uniurb.it"/>
+    <tag k="contact:fax" v="+39 0722 305541"/>
+    <tag k="contact:phone" v="+39 0722 305509; +39 0722 305507"/>
+    <tag k="contact:website" v="http://desp.uniurb.it/"/>
+    <tag k="name" v="Dipartimento Economia, Società, Politica"/>
+    <tag k="operator" v="Università degli Studi di Urbino Carlo Bo"/>
+    <tag k="ref" v="DESP"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="3865483067" lat="43.7218987" lon="12.6360684">
+    <tag k="addr:city" v="Urbino"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="61029"/>
+    <tag k="addr:street" v="Via Giacomo Matteotti"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:email" v="segreteria.digiur@uniurb.it"/>
+    <tag k="contact:fax" v="+39 0722 303230"/>
+    <tag k="contact:phone" v="+39 0722 303250"/>
+    <tag k="contact:website" v="http://digiur.uniurb.it/"/>
+    <tag k="name" v="Dipartimento Giurisprudenza"/>
+    <tag k="operator" v="Università degli Studi di Urbino Carlo Bo"/>
+    <tag k="ref" v="DIGIUR"/>
+  </node>
+  <node id="3865483068" lat="43.7232270" lon="12.6368667">
+    <tag k="addr:city" v="Urbino"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="61029"/>
+    <tag k="addr:street" v="Via Aurelio Saffi"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:email" v="segreteria.disb@uniurb.it"/>
+    <tag k="contact:fax" v="+39 0722 305324"/>
+    <tag k="contact:phone" v="+39 0722 305261"/>
+    <tag k="contact:website" v="http://disb.uniurb.it/"/>
+    <tag k="name" v="Dipartimento Scienze Biomolecolari"/>
+    <tag k="operator" v="Università degli Studi di Urbino Carlo Bo"/>
+    <tag k="ref" v="DISB"/>
+  </node>
+  <node id="3865483069" lat="43.7262927" lon="12.6365966">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Dipartimento Scienze Pure e Applicate"/>
+    <tag k="note" v="Dipartimento di nuova costituzione, le informazioni sono in fase di aggiornamento..."/>
+    <tag k="operator" v="Università degli Studi di Urbino Carlo Bo"/>
+    <tag k="ref" v="DiSPeA"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3865483070" lat="43.7275124" lon="12.6361159">
+    <tag k="addr:city" v="Urbino"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="61029"/>
+    <tag k="addr:street" v="Via Donato Bramante"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:email" v="segreteria.dipsum@uniurb.it"/>
+    <tag k="contact:fax" v="+39 0722 303746"/>
+    <tag k="contact:phone" v="+39 0722 303740"/>
+    <tag k="contact:website" v="http://dipsum.uniurb.it/"/>
+    <tag k="name" v="Dipartimento Scienze dell'Uomo"/>
+    <tag k="operator" v="Università degli Studi di Urbino Carlo Bo"/>
+    <tag k="ref" v="DIPSUM"/>
+  </node>
+  <node id="3865483071" lat="43.7221029" lon="12.6366383">
+    <tag k="addr:city" v="Urbino"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="61029"/>
+    <tag k="addr:street" v="Via Aurelio Saffi"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:email" v="segreteria.discum@uniurb.it"/>
+    <tag k="contact:fax" v="+39 0722 305761"/>
+    <tag k="contact:phone" v="+39 0722 305760"/>
+    <tag k="name" v="Dipartimento Scienze della Comunicazione e Discipline Umanistiche"/>
+    <tag k="operator" v="Università degli Studi di Urbino Carlo Bo"/>
+    <tag k="ref" v="DISCUM"/>
+  </node>
+  <node id="3865483073" lat="43.7263101" lon="12.6365732">
+    <tag k="addr:city" v="Urbino"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="61029"/>
+    <tag k="addr:street" v="Piazza della Repubblica"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:email" v="segreteria.disbef@uniurb.it"/>
+    <tag k="contact:fax" v="+39 0722 327857"/>
+    <tag k="contact:phone" v="+39 0722 304521"/>
+    <tag k="contact:website" v="http://www.disbef.uniurb.it/"/>
+    <tag k="name" v="Dipartimento Scienze di Base e Fondamenti"/>
+    <tag k="operator" v="Università degli Studi di Urbino Carlo Bo"/>
+    <tag k="ref" v="DISBEF"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3865483074" lat="43.7235042" lon="12.6370663">
+    <tag k="addr:city" v="Urbino"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="61029"/>
+    <tag k="addr:street" v="Piazza Rinascimento"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:email" v="segreteria.disti@uniurb.it"/>
+    <tag k="contact:fax" v="+39 0722 303348"/>
+    <tag k="contact:phone" v="+39 0722 303350; +39 0722 303302"/>
+    <tag k="contact:website" v="http://www.uniurb.it/disti"/>
+    <tag k="name" v="Dipartimento Studi Internazionali. Storia, Lingue, Culture"/>
+    <tag k="operator" v="Università degli Studi di Urbino Carlo Bo"/>
+    <tag k="ref" v="DISTI"/>
+  </node>
+  <node id="3865483075" lat="43.7275006" lon="12.6361139">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Dipartimento Studi Umanistici"/>
+    <tag k="note" v="Dipartimento di nuova costituzione, le informazioni sono in fase di aggiornamento..."/>
+    <tag k="operator" v="Università degli Studi di Urbino Carlo Bo"/>
+    <tag k="ref" v="DISTUM"/>
+  </node>
+  <node id="3865483076" lat="43.7232299" lon="12.6366992">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:phone" v="+39 0722 3051"/>
+    <tag k="contact:phone:IT" v="800 462446"/>
+    <tag k="contact:website" v="http://www.uniurb.it/"/>
+    <tag k="name" v="Sede centrale Università degli Studi di Urbino Carlo Bo"/>
+    <tag k="operator" v="Università degli Studi di Urbino Carlo Bo"/>
+  </node>
+  <node id="3865504452" lat="43.7245542" lon="12.6380221">
+    <tag k="addr:city" v="Urbino"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:postcode" v="61029"/>
+    <tag k="addr:street" v="Via Federico Veterani"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:email" v="cisdel@uniurb.it"/>
+    <tag k="contact:phone" v="+39 0722 305678"/>
+    <tag k="name" v="Centro Integrato Servizi Didattici ed E-Learning"/>
+    <tag k="operator" v="Università degli Studi di Urbino Carlo Bo"/>
+    <tag k="ref" v="CISDEL"/>
+  </node>
+  <node id="3925419378" lat="43.6573231" lon="7.1715348">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Université Internationale de la Mer"/>
+  </node>
+  <node id="3926012097" lat="45.4045332" lon="11.8841912">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Dipartimento di Scienze Statistiche"/>
+    <tag k="operator" v="Università di Padova"/>
+    <tag k="source" v="http://www.openstreetmap.org/note/445943"/>
+  </node>
+  <node id="3929291567" lat="48.1531606" lon="11.5523631">
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="80335"/>
+    <tag k="addr:street" v="Lothstraße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:email" v="info@nachhaltigehochschule.de"/>
+    <tag k="contact:website" v="http://www.nachhaltigehochschule.de/"/>
+    <tag k="name" v="Hochschule und Nachhaltigkeit Bayern Hochschule München"/>
+    <tag k="source" v="survey by BenE München"/>
+    <tag k="topic" v="environment"/>
+  </node>
+  <node id="3929291590" lat="48.1487880" lon="11.5681619">
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="80333"/>
+    <tag k="addr:street" v="Arcisstraße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:fax" v="+49 8928923014"/>
+    <tag k="contact:phone" v="+49 8928922416"/>
+    <tag k="contact:website" v="http://www.hb.bgu.tum.de/"/>
+    <tag k="fixme" v="exact location"/>
+    <tag k="name" v="Lehrstuhl für Holzbau und Baukonstruktion"/>
+    <tag k="source" v="survey by BenE München"/>
+  </node>
+  <node id="3937480941" lat="44.7279366" lon="11.2911934">
+    <tag k="addr:city" v="Cento"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:postcode" v="44042"/>
+    <tag k="addr:street" v="Via Guercino"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="CenTec"/>
+    <tag k="operator" v="Università degli Studi di Ferrara"/>
+  </node>
+  <node id="3979367433" lat="44.4950717" lon="11.3575340">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Instituto di Cancerologia"/>
+  </node>
+  <node id="3979367434" lat="44.4946163" lon="11.3566998">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Opera Universitaria - Collegio Forni"/>
+  </node>
+  <node id="3979367436" lat="44.4950975" lon="11.3565979">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Dipartimento di Scienze Giurdiche Antonio Cicu"/>
+  </node>
+  <node id="3979367437" lat="44.4953577" lon="11.3565335">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Sistema Bibliotecario d'ateneo"/>
+  </node>
+  <node id="3979367438" lat="44.4956045" lon="11.3565309">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Dipartimento di Matematica per le Scienze Economiche e Sociali"/>
+  </node>
+  <node id="3979367439" lat="44.4960178" lon="11.3565416">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Instituto Zoni"/>
+  </node>
+  <node id="3991670221" lat="48.0222147" lon="12.5538248">
+    <tag k="amenity" v="university"/>
+  </node>
+  <node id="4086214801" lat="45.0697357" lon="7.6879582">
+    <tag k="addr:city" v="Torino"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="10124"/>
+    <tag k="addr:street" v="Via Po"/>
+    <tag k="amenity" v="university"/>
+    <tag k="email" v="log@unito.it"/>
+    <tag k="fax" v="+39 011 2361071"/>
+    <tag k="name" v="Ufficio logistica - Università degli Studi di Torino"/>
+    <tag k="phone" v="+39 011 6704901"/>
+    <tag k="website" v="https://www.unito.it/"/>
+  </node>
+  <node id="4155464391" lat="45.1905459" lon="5.7671669">
+    <tag k="addr:city" v="Saint-Martin-d'Hères"/>
+    <tag k="addr:housenumber" v="700"/>
+    <tag k="addr:postcode" v="38400"/>
+    <tag k="addr:street" v="Avenue Centrale"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Verimag"/>
+    <tag k="website" v="http://www-verimag.imag.fr/"/>
+  </node>
+  <node id="4155484177" lat="45.1901614" lon="5.7667516">
+    <tag k="addr:city" v="Saint-Martin-d'Hères"/>
+    <tag k="addr:housenumber" v="700"/>
+    <tag k="addr:postcode" v="38401"/>
+    <tag k="addr:street" v="Avenue Centrale"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Grenoble Alpes Recherche - Infrastructure de Calcul Intensif et de Données"/>
+    <tag k="short_name" v="GRICAD"/>
+  </node>
+  <node id="4155484178" lat="45.1902788" lon="5.7670437">
+    <tag k="addr:city" v="Saint-Martin-d'Hères"/>
+    <tag k="addr:housenumber" v="700"/>
+    <tag k="addr:postcode" v="38401"/>
+    <tag k="addr:street" v="Avenue Centrale"/>
+    <tag k="amenity" v="university"/>
+    <tag k="description" v="Laboratoire Jean Kuntzmann"/>
+    <tag k="name" v="LJK"/>
+    <tag k="website" v="http://www-ljk.imag.fr/"/>
+  </node>
+  <node id="4155484179" lat="45.1899678" lon="5.7670157">
+    <tag k="addr:city" v="Saint-Martin-d'Hères"/>
+    <tag k="addr:housenumber" v="700"/>
+    <tag k="addr:postcode" v="38401"/>
+    <tag k="addr:street" v="Avenue Centrale"/>
+    <tag k="amenity" v="university"/>
+    <tag k="description" v="Laboratoire d'Informatique de Grenoble"/>
+    <tag k="name" v="LIG"/>
+    <tag k="website" v="http://www.liglab.fr/"/>
+  </node>
+  <node id="4155484180" lat="45.1901956" lon="5.7672950">
+    <tag k="amenity" v="university"/>
+    <tag k="description" v="Maison de la Modélisation et de la Simulation, Nanosciences et Environnement"/>
+    <tag k="name" v="MaiMoSiNE"/>
+    <tag k="website" v="http://maimosine.fr/"/>
+  </node>
+  <node id="4177892778" lat="48.2502458" lon="11.6232000">
+    <tag k="addr:city" v="Garching bei München"/>
+    <tag k="addr:housenumber" v="90a"/>
+    <tag k="addr:postcode" v="85748"/>
+    <tag k="addr:street" v="Schleißheimer Straße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="TU München, Lehrstuhl für Echtzeitsysteme, Künstliche Intelligenz und Robotik"/>
+    <tag k="website" v="https://www6.in.tum.de"/>
+  </node>
+  <node id="4199539723" lat="46.9506462" lon="7.4384859">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Hochschulstrasse 4, 3012 Bern"/>
+    <tag k="contact:email" v="info@oeschger.unibe.ch"/>
+    <tag k="contact:phone" v="+41 31 6313145"/>
+    <tag k="name" v="Oeschger Centre for Climate Change Research"/>
+    <tag k="operator" v="University of Bern"/>
+    <tag k="short_name" v="OCCR"/>
+    <tag k="website" v="http://www.oeschger.unibe.ch/"/>
+  </node>
+  <node id="4212610501" lat="43.7866944" lon="11.3096376">
+    <tag k="amenity" v="university"/>
+  </node>
+  <node id="4227297220" lat="48.1282512" lon="12.7874178">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Studienzentrum TU München"/>
+    <tag k="name:en" v="Science &amp; Study Center TUM"/>
+  </node>
+  <node id="4310825260" lat="44.7972283" lon="10.3089337">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università di Parma - Facoltà di Medicina e Chirurgia"/>
+  </node>
+  <node id="4330756359" lat="48.1479517" lon="11.5679777">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Carl-von-Linde 1200"/>
+  </node>
+  <node id="4346659505" lat="45.4580676" lon="7.8733263">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Corso di laurea in Infermieristica"/>
+    <tag k="operator" v="Università degli Studi di Torino"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4377005889" lat="43.7765601" lon="11.2573854">
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Via Cavour"/>
+    <tag k="alt_name" v="Kent State Florance"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Kent State University Florance"/>
+    <tag k="operator" v="Kent State University"/>
+    <tag k="website" v="https://www.kent.edu/Florence"/>
+  </node>
+  <node id="4377211163" lat="47.5612651" lon="7.5752961">
+    <tag k="addr:city" v="Basel"/>
+    <tag k="addr:housenumber" v="60-62"/>
+    <tag k="addr:postcode" v="4055"/>
+    <tag k="addr:street" v="Missionsstrasse"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Faculty of Psychology, University of Basel"/>
+    <tag k="operator" v="University of Basel"/>
+  </node>
+  <node id="4401892858" lat="43.7699272" lon="11.2675756">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Facoltà di Architettura"/>
+  </node>
+  <node id="4408732663" lat="43.7187456" lon="10.3986698">
+    <tag k="addr:city" v="Pisa"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="56126"/>
+    <tag k="addr:street" v="Via Pasquale Paoli"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Dipartimento di Civiltà e Forme del Sapere"/>
+    <tag k="operator" v="Università di Pisa"/>
+  </node>
+  <node id="4408732667" lat="43.7199674" lon="10.3971558">
+    <tag k="addr:city" v="Pisa"/>
+    <tag k="addr:housenumber" v="85"/>
+    <tag k="addr:postcode" v="56125"/>
+    <tag k="addr:street" v="Via Santa Maria"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Facoltà di Lingue e Letterature Straniere"/>
+    <tag k="operator" v="Università di Pisa"/>
+  </node>
+  <node id="4411129419" lat="48.4228115" lon="9.9559596">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Universität Ulm (Campus Ost)"/>
+    <tag k="operator" v="Ministerium für Wissenschaft, Forschung und Kunst Baden-Württemberg"/>
+  </node>
+  <node id="4416455666" lat="46.9573869" lon="7.4255523">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="OP"/>
+    <tag k="operator" v="Tierspital"/>
+    <tag k="source" v="Amtliche Vermessung"/>
+  </node>
+  <node id="4416463281" lat="46.9569258" lon="7.4252911">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Radiologie Grosstiere"/>
+  </node>
+  <node id="4416467838" lat="46.9567165" lon="7.4248316">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Kleintierklinik"/>
+  </node>
+  <node id="4416473131" lat="46.9565096" lon="7.4257858">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Hörsaal"/>
+  </node>
+  <node id="4416473134" lat="46.9564666" lon="7.4257060">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Pharmakologie"/>
+  </node>
+  <node id="4416495799" lat="46.9575524" lon="7.4269125">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Wildtiere, Fische"/>
+  </node>
+  <node id="4417485663" lat="46.9563047" lon="7.4259719">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Empfang"/>
+  </node>
+  <node id="4417631105" lat="46.9577472" lon="7.4260666">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Hörsaal, Klinikhalle, OP mit Galerie"/>
+  </node>
+  <node id="4417631107" lat="46.9579216" lon="7.4262845">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Wiederkäuerklinik"/>
+  </node>
+  <node id="4418239653" lat="46.9536356" lon="7.4225231">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Fabrikstrasse 8, 3012 Bern"/>
+    <tag k="name" v="Institut Sekundarstufe I"/>
+    <tag k="operator" v="PH Bern"/>
+    <tag k="website" v="https://www.phbern.ch/ueber-die-phbern/institute/institut-sekundarstufe-i.html"/>
+  </node>
+  <node id="4418239654" lat="46.9531123" lon="7.4285004">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Muesmattstrasse 29, 3012 Bern"/>
+    <tag k="name" v="Seminarräume Grundausbildungen PH Bern"/>
+    <tag k="operator" v="PH Bern"/>
+  </node>
+  <node id="4428956437" lat="46.9515501" lon="7.4291808">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Baltzerstrasse 2, 3012 Bern"/>
+    <tag k="contact:email" v="office@ana.unibe.ch"/>
+    <tag k="contact:phone" v="+41 31 6318433"/>
+    <tag k="name" v="Institut für Anatomie"/>
+    <tag k="operator" v="Uni Bern"/>
+    <tag k="website" v="http://www.ana.unibe.ch"/>
+  </node>
+  <node id="4428956438" lat="46.9516894" lon="7.4298510">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Bühlstrasse 26, 3012 Bern"/>
+    <tag k="contact:phone" v="+41 31 6318473"/>
+    <tag k="name" v="Institut für Medizingeschichte"/>
+    <tag k="operator" v="Uni Bern"/>
+    <tag k="website" v="http://www.img.unibe.ch"/>
+  </node>
+  <node id="4434804936" lat="46.9571285" lon="7.4271014">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Bakteriologie, Pathologie"/>
+  </node>
+  <node id="4434804937" lat="46.9568832" lon="7.4275815">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Hörsaal"/>
+  </node>
+  <node id="4434804939" lat="46.9569427" lon="7.4274166">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Virologie"/>
+  </node>
+  <node id="4437888480" lat="46.9573419" lon="7.4267733">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Parasitologie"/>
+  </node>
+  <node id="4463910445" lat="44.4156599" lon="8.9235499">
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="vico delle Monachette"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Aule Uniauser"/>
+  </node>
+  <node id="4463910447" lat="44.4163915" lon="8.9237805">
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="Via Balbi"/>
+    <tag k="amenity" v="university"/>
+    <tag k="description" v="Università Popolare dell’Età Libera UniAuser Genova, con certificazione “bollino blu” di qualità riconosciuta dall’Auser Nazionale."/>
+    <tag k="name" v="UniAuser"/>
+  </node>
+  <node id="4500846113" lat="44.8360198" lon="11.6210994">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Polo Adelardi - Dipartimento di economia e management"/>
+  </node>
+  <node id="4535598781" lat="48.1499912" lon="11.5674590">
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="80333"/>
+    <tag k="addr:street" v="Arcisstraße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="level" v="2"/>
+    <tag k="name" v="TUM Lehrstuhl für Psychologie"/>
+  </node>
+  <node id="4555441624" lat="45.4736847" lon="9.1856769">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="20121"/>
+    <tag k="addr:street" v="Via Cavalieri del Santo Sepolcro"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Facoltà Teologica dell'Italia Settentrionale"/>
+    <tag k="phone" v="+39 02 863181"/>
+    <tag k="source" v="www.teologiamilano.it"/>
+    <tag k="wikidata" v="Q1708766"/>
+    <tag k="wikipedia" v="it:Facoltà teologica dell'Italia settentrionale"/>
+  </node>
+  <node id="4589228980" lat="45.5978446" lon="8.8460515">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Istituto Cinematografico Michelangelo Antonioni"/>
+    <tag k="short_name" v="ICMA"/>
+  </node>
+  <node id="4589500689" lat="44.4351271" lon="11.4857979">
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:postcode" v="40064"/>
+    <tag k="addr:street" v="Via Tolara di Sopra"/>
+    <tag k="amenity" v="university"/>
+    <tag k="email" v="amministrazione.vet@unibo.it"/>
+    <tag k="name" v="Università di Bologna - Dipartimento di Scienze Mediche Veterinarie"/>
+    <tag k="name:it" v="Università di Bologna - Dipartimento di Scienze Mediche Veterinarie"/>
+    <tag k="phone" v="+39 051 2097011"/>
+    <tag k="website" v="http://www.scienzemedicheveterinarie.unibo.it/it/"/>
+  </node>
+  <node id="4605836657" lat="45.0531377" lon="7.6863769">
+    <tag k="addr:city" v="Torino"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:postcode" v="10125"/>
+    <tag k="addr:street" v="Viale Mattioli"/>
+    <tag k="alt_name" v="Urban Sustainability &amp; Security Laboratory for Social Challenges"/>
+    <tag k="amenity" v="university"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="customers"/>
+    <tag k="internet_access:ssid" v="Polito, Eduroam"/>
+    <tag k="level" v="1"/>
+    <tag k="name" v="S3+Lab"/>
+    <tag k="note" v="Due to the Covid-19 pandemia, S3+lab is actually closed to the public.The Technical Staff operate in &quot;smart-working&quot;. Students or Collegues, of course, can reach us by telephone or our e-mail address. "/>
+    <tag k="opening_hours" v="Tu 09:00-12:00; We,Fr 14:00-16:00"/>
+    <tag k="operator" v="Francesco FIERMONTE"/>
+    <tag k="operator:type" v="government"/>
+    <tag k="phone" v="+390110907478"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="website" v="http://www.s3lab.polito.it"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="4605836658" lat="45.0532475" lon="7.6863527">
+    <tag k="amenity" v="university"/>
+    <tag k="email" v="ecdl-gis@polito.it"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="level" v="-2"/>
+    <tag k="name" v="ECDL GIS TEST CENTER"/>
+    <tag k="note" v="Certificazioni GIS (Geographic  Information System)"/>
+    <tag k="opening_hours" v="8:30-16:15"/>
+    <tag k="operator" v="Antonio Cittadino"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="phone" v="+39 011 090 7464"/>
+    <tag k="website" v="http://www.ecdlgis.polito.it/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="4605847888" lat="45.0534347" lon="7.6865575">
+    <tag k="amenity" v="university"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="LARTU - Laboratorio di Analisi e Rappresentazioni Territoriali e Urbane"/>
+    <tag k="operator" v="Antonio Cittadino"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="website" v="http://www.lartu.polito.it/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="4605849272" lat="45.0539307" lon="7.6862746">
+    <tag k="alt_name" v="Distretto Amministrativo e Gestionale"/>
+    <tag k="amenity" v="university"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Dipartimento Interateneo di Scienze, Progetto e Politiche del Territorio"/>
+    <tag k="name:en" v="Interuniversity Department of Regional and Urban Studies and Planning (DIST)"/>
+    <tag k="operator" v="PoliTo"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="website" v="http://www.dist.polito.it/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4701113379" lat="45.1955660" lon="5.7092766">
+    <tag k="addr:city" v="Grenoble"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="38000"/>
+    <tag k="addr:street" v="Parvis Louis Néel"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:website" v="http://www.cime.inpg.fr"/>
+    <tag k="name" v="Centre interuniversitaire de microélectronique et de nanotechnologie"/>
+    <tag k="short_name" v="CIME Nanotech"/>
+  </node>
+  <node id="4701531513" lat="46.0583754" lon="13.2336323">
+    <tag k="amenity" v="university"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:ssid" v="eduroam"/>
+    <tag k="name" v="Università degli Studi di Udine - Facoltà di Scienze della Formazione"/>
+  </node>
+  <node id="4702380316" lat="43.7222484" lon="10.4054329">
+    <tag k="addr:city" v="Pisa"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="56123"/>
+    <tag k="addr:street" v="Via San Zeno"/>
+    <tag k="amenity" v="university"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="name" v="Istituto di Fisiologia"/>
+    <tag k="operator" v="Università di Pisa"/>
+  </node>
+  <node id="4729382190" lat="48.5828429" lon="7.7739304">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Faculté des sciences économiques et de gestion"/>
+    <tag k="website" v="http://ecogestion.unistra.fr/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4761704402" lat="45.0828304" lon="7.5783766">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università degli studi di Torino - tecniche della prevenzione nell'ambiente e nei luoghi di lavoro"/>
+  </node>
+  <node id="4793204652" lat="47.9947159" lon="7.8487092">
+    <tag k="addr:city" v="Freiburg im Breisgau"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="79098"/>
+    <tag k="addr:street" v="Universitätsstraße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="email" v="info@sli.uni-freiburg.de"/>
+    <tag k="fax" v="+49 761 203 3516"/>
+    <tag k="name" v="SLI - Sprachlehrinstitut"/>
+    <tag k="operator" v="Albert-Ludwigs-Universität Freiburg"/>
+    <tag k="phone" v="+49 761 203 3224"/>
+    <tag k="website" v="https://www.sli.uni-freiburg.de"/>
+  </node>
+  <node id="4811053479" lat="45.4379734" lon="12.3499612">
+    <tag k="amenity" v="university"/>
+    <tag k="faculty" v="mathematics"/>
+    <tag k="name" v="Università degli Studi di Venezia, Facoltà di Scienze Matematiche-Fisiche-Naturali"/>
+  </node>
+  <node id="4863409321" lat="45.0542498" lon="7.6853643">
+    <tag k="addr:city" v="Torino"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:postcode" v="10125"/>
+    <tag k="addr:street" v="Viale Pier Andrea Mattioli"/>
+    <tag k="amenity" v="university"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Facoltà di Architettura"/>
+    <tag k="operator" v="Politecnico di Torino"/>
+  </node>
+  <node id="4887876815" lat="47.2590178" lon="11.3926384">
+    <tag k="addr:city" v="Innsbruck"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="6020"/>
+    <tag k="addr:street" v="Schöpfstraße"/>
+    <tag k="addr:suburb" v="Wilten"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Institut für Psychosoziale Intervention  und Kommunikationsforschung"/>
+    <tag k="phone" v="+43 512 50744601"/>
+    <tag k="source" v="website"/>
+    <tag k="website" v="https://www.uibk.ac.at/psyko/"/>
+  </node>
+  <node id="4909254901" lat="44.1416976" lon="12.2394553">
+    <tag k="addr:housenumber" v="23/25"/>
+    <tag k="addr:street" v="Via Mulini"/>
+    <tag k="amenity" v="university"/>
+    <tag k="description" v="Sala studio"/>
+    <tag k="name" v="Sala studio Alfa Albatros"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-21:00; Su 12:00-23:58"/>
+    <tag k="phone" v="+39 0547 338864"/>
+    <tag k="website" v="http://sprite.csr.unibo.it/sala-alfa/"/>
+  </node>
+  <node id="5129102162" lat="43.7184524" lon="10.3960131">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Facoltà di Biologia"/>
+  </node>
+  <node id="5145792359" lat="45.0174282" lon="7.6167035">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università di Torino - Incubatore d'impresa"/>
+  </node>
+  <node id="5145792360" lat="45.0168243" lon="7.6157086">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università di Torino - Scienze MFN e Farmacia"/>
+  </node>
+  <node id="5174850590" lat="44.0619874" lon="12.5699671">
+    <tag k="addr:city" v="Rimini"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Via Domenico Angherà"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="UniBo Rimini - Campus Via Angherà"/>
+    <tag k="note" v="https://imgur.com/rChPovB"/>
+    <tag k="operator" v="Università di Bologna"/>
+    <tag k="source:wheelchair" v="survey"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5177884950" lat="46.9522960" lon="7.4350455">
+    <tag k="alt_name" v="World Trade Institute, University of Bern"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Hallerstrasse 6, 3012 Bern"/>
+    <tag k="contact:email" v="inquire@wti.org"/>
+    <tag k="contact:fax" v="+41 31 6313630"/>
+    <tag k="contact:phone" v="+41 31 6313270"/>
+    <tag k="contact:website" v="https://www.wti.org/institute/about/#46483-contact-and-location"/>
+    <tag k="name" v="World Trade Institute"/>
+    <tag k="operator" v="University of Bern"/>
+    <tag k="short_name" v="WTI"/>
+    <tag k="website" v="https://www.wti.org/"/>
+    <tag k="wikidata" v="Q4247417"/>
+  </node>
+  <node id="5177891621" lat="46.9523324" lon="7.4347805">
+    <tag k="alt_name" v="Institut für Europa- und Wirtschaftsvölkerrecht"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Hallerstrasse 6, 3012 Bern"/>
+    <tag k="contact:phone" v="+41 31 6313625"/>
+    <tag k="name" v="Institut Europa- und Wirtschaftsvölkerrecht"/>
+    <tag k="operator" v="University of Bern"/>
+    <tag k="website" v="http://www.iew.unibe.ch/"/>
+  </node>
+  <node id="5223011421" lat="48.1466983" lon="11.5696234">
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housename" v="HFF München"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="80333"/>
+    <tag k="addr:street" v="Bernd-Eichinger-Platz"/>
+    <tag k="amenity" v="university"/>
+    <tag k="building" v="university"/>
+    <tag k="name" v="Hochschule für Fernsehen und Film München"/>
+    <tag k="roof:colour" v="grey"/>
+    <tag k="roof:shape" v="flat"/>
+    <tag k="short_name" v="HFF München"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="website" v="https://www.hff-muc.de/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q569350"/>
+    <tag k="wikipedia" v="de:Hochschule für Fernsehen und Film München"/>
+  </node>
+  <node id="5224408187" lat="45.4072446" lon="11.8936143">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Dipartimento di Ingegneria Civile, Edile e Ambientale (ICEA)"/>
+    <tag k="operator" v="Università degli studi di Padova"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="5257829387" lat="47.4143683" lon="8.5496180">
+    <tag k="addr:city" v="Zürich"/>
+    <tag k="addr:housename" v="UZH-BIN"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="8050"/>
+    <tag k="addr:street" v="Binzmühlestrasse"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Universität Zürich, Oerlikon (BIN)"/>
+  </node>
+  <node id="5257829388" lat="47.4131889" lon="8.5487502">
+    <tag k="addr:city" v="Zürich"/>
+    <tag k="addr:housename" v="UZH-AND"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="8050"/>
+    <tag k="addr:street" v="Andreasstrasse"/>
+    <tag k="amenity" v="university"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Universität Zürich, Oerlikon (AND)"/>
+  </node>
+  <node id="5258131767" lat="43.7217319" lon="10.4081890">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Aula magna / centro congressi"/>
+  </node>
+  <node id="5258131768" lat="43.7215361" lon="10.4082668">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Ufficio immatricolazioni Matricolandosi"/>
+  </node>
+  <node id="5269941637" lat="45.7466480" lon="4.8361052">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Institut d'Urbanisme de Lyon"/>
+    <tag k="operator" v="Université Lumière - Lyon 2"/>
+  </node>
+  <node id="5277842222" lat="45.0514213" lon="7.6811915">
+    <tag k="addr:street" v="Via Petro Giuria 7"/>
+    <tag k="amenity" v="university"/>
+    <tag k="int_name" v="Department of Chemistry, University of Turin"/>
+    <tag k="name" v="Università degli Studi di Torino - Dipartimento di Chimica"/>
+  </node>
+  <node id="5343104848" lat="45.6991469" lon="4.8241723">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Perf Santé"/>
+  </node>
+  <node id="5356239972" lat="48.8163624" lon="7.7865731">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="I.U.T. de Haguenau"/>
+    <tag k="website" v="https://iuthaguenau.unistra.fr/"/>
+  </node>
+  <node id="5356808381" lat="45.0866435" lon="11.7826638">
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Viale Porta Adige"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="C.U.R. - Consorzio Universitario Rovigo"/>
+    <tag k="phone" v="+39 0425 398502"/>
+    <tag k="website" v="https://www.universitarovigo.com/"/>
+  </node>
+  <node id="5359018937" lat="48.5354439" lon="9.0703370">
+    <tag k="addr:city" v="Tübingen"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="72076"/>
+    <tag k="addr:street" v="Sand"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Universitätsarchiv Tübingen - Magazin"/>
+    <tag k="operator" v="Universität Tübingen"/>
+  </node>
+  <node id="5359018938" lat="48.5354457" lon="9.0704550">
+    <tag k="addr:city" v="Tübingen"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="72076"/>
+    <tag k="addr:street" v="Sand"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Astronomie Werkstatt"/>
+    <tag k="operator" v="Universität Tübingen"/>
+  </node>
+  <node id="5387469418" lat="46.9522798" lon="7.4346227">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Hallerstrasse 6, 3012 Bern"/>
+    <tag k="contact:email" v="nccr@wti.org"/>
+    <tag k="contact:phone" v="+41 31 6313270"/>
+    <tag k="name" v="National Centres of Competence in Research Trade Regulation"/>
+    <tag k="operator" v="University of Bern - World Trade Institute"/>
+    <tag k="short_name" v="nccr trade regulation"/>
+    <tag k="website" v="http://www.nccr-trade.org/"/>
+  </node>
+  <node id="5397122030" lat="44.3881729" lon="7.5467742">
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Corso Nizza"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Accademia di Belle Arti di Cuneo"/>
+    <tag k="website" v="http://accademiabellearticuneo.it"/>
+  </node>
+  <node id="5398030194" lat="48.1496855" lon="11.5686785">
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="80333"/>
+    <tag k="addr:street" v="Arcisstraße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Lehrstuhl für Kartographie"/>
+  </node>
+  <node id="5456903919" lat="46.4250067" lon="6.9242308">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="MBU"/>
+    <tag k="wikidata" v="Q18391097"/>
+  </node>
+  <node id="5461468089" lat="46.1951230" lon="6.1421224">
+    <tag k="addr:city" v="Genève"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="1205"/>
+    <tag k="addr:street" v="Boulevard du Pont-d'Arve"/>
+    <tag k="amenity" v="university"/>
+    <tag k="description" v="Centre interfacultaire de gérontologie et d'études des vulnérabilités"/>
+    <tag k="name" v="Université de Genève - CIGEV"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-12:00, 14:00-17:00"/>
+    <tag k="phone" v="+41223793790"/>
+    <tag k="website" v="https://cigev.unige.ch/"/>
+  </node>
+  <node id="5467028540" lat="48.0007338" lon="7.8479003">
+    <tag k="addr:city" v="Freiburg im Breisgau"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="79104"/>
+    <tag k="addr:street" v="Hebelstraße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="description" v="Nebenstelle der Professur für Umweltmeteorologie Albert-Ludwigs Universität Freiburg"/>
+    <tag k="email" v="meteo@meteo.uni-freiburg.de"/>
+    <tag k="fax" v="+49 761 203 3586"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="name" v="Professur für Umweltmeteorologie (Nebenstelle)"/>
+    <tag k="operator" v="Albert-Ludwigs-Universität Freiburg"/>
+    <tag k="phone" v="+49 761 203 3590"/>
+    <tag k="website" v="http://www.meteo.uni-freiburg.de"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5475675403" lat="45.4294759" lon="4.3914262">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Département d'études politiques et territoriales"/>
+    <tag k="operator" v="Université de Lyon"/>
+  </node>
+  <node id="5551195437" lat="44.7985729" lon="10.3372892">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università civiltà linguistica E Letteratura"/>
+  </node>
+  <node id="5552089833" lat="45.1865205" lon="9.1560964">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università degli Studi di Pavia"/>
+  </node>
+  <node id="5614300784" lat="45.4580152" lon="7.8733623">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="master in cure palliative e terapia del dolore"/>
+  </node>
+  <node id="5653983963" lat="47.6404609" lon="6.8477654">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="AFPA-Production"/>
+  </node>
+  <node id="5666860094" lat="47.6523113" lon="6.8346226">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Les Compagnons du Devoir du Tour de France"/>
+    <tag k="office" v="company"/>
+  </node>
+  <node id="5666860115" lat="47.6474905" lon="6.8409258">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="ETC Group"/>
+  </node>
+  <node id="5666860119" lat="47.6449932" lon="6.8435115">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="École de Commerce et de Management"/>
+  </node>
+  <node id="5666860120" lat="47.6437319" lon="6.8441471">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Crepi"/>
+  </node>
+  <node id="5666861248" lat="47.6437047" lon="6.8441632">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Access Code School"/>
+  </node>
+  <node id="5697180622" lat="44.4906684" lon="11.3481638">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="DISCI - Università di storia culture e civiltà antiche, sezione di Archeologia. "/>
+  </node>
+  <node id="5723254655" lat="46.1976717" lon="6.1338833">
+    <tag k="addr:city" v="Genève"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="1205"/>
+    <tag k="addr:street" v="Boulevard d'Yvoy"/>
+    <tag k="amenity" v="university"/>
+    <tag k="description" v="Ce bâtiment abrite la section de physique et de chimie de l'université de Genève"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:ssid" v="gest-unige"/>
+    <tag k="name" v="Science I"/>
+  </node>
+  <node id="5726913477" lat="45.7430610" lon="4.8180403">
+    <tag k="amenity" v="university"/>
+    <tag k="email" v="contact@issep.fr"/>
+    <tag k="name" v="Institut des sciences sociales, économiques et politiques"/>
+    <tag k="phone" v="+33 7 84 95 56 22"/>
+    <tag k="short_name" v="ISSEP"/>
+    <tag k="start_date" v="2018"/>
+    <tag k="website" v="https://www.issep.fr/"/>
+    <tag k="wikidata" v="Q53951715"/>
+    <tag k="wikipedia" v="fr:Institut des sciences sociales, économiques et politiques"/>
+  </node>
+  <node id="5745190413" lat="45.7357179" lon="4.8776018">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="SUPINFO Lyon"/>
+    <tag k="website" v="http://lyon.supinfo.com/"/>
+  </node>
+  <node id="5763944985" lat="48.2494406" lon="11.6335106">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="mobil.Lab der TUM"/>
+    <tag k="opening_hours" v="Mo-Fr 8:00-17:00"/>
+    <tag k="website" v="https://www.bgu.tum.de/sv/mobillab-promotionskolleg/"/>
+  </node>
+  <node id="5772457341" lat="48.1478107" lon="11.5622953">
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:postcode" v="80333"/>
+    <tag k="addr:street" v="Augustenstraße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:ssid" v="eduroam"/>
+    <tag k="name" v="Technische Universität München / Modelierung Räumlicher Mobilität"/>
+    <tag k="name:de" v="Technische Universität München / Modelierung Räumlicher Mobilität"/>
+    <tag k="name:en" v="Technical University of Munich / Modeling Spatial Mobility"/>
+  </node>
+  <node id="5781280436" lat="48.5241974" lon="9.0544993">
+    <tag k="addr:city" v="Tübingen"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="72076"/>
+    <tag k="addr:street" v="Schleichstraße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Wissenschaftscampus"/>
+  </node>
+  <node id="5781280437" lat="48.5246575" lon="9.0547112">
+    <tag k="addr:city" v="Tübingen"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="72076"/>
+    <tag k="addr:street" v="Schleichstraße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Leibniz-Institut für Wissensmedien"/>
+    <tag k="short_name" v="IWM"/>
+  </node>
+  <node id="5802236943" lat="47.0273726" lon="4.8386702">
+    <tag k="amenity" v="university"/>
+    <tag k="level" v="1"/>
+    <tag k="name" v="INSEEC Wine and Spirits Institute"/>
+  </node>
+  <node id="5840181047" lat="43.9354446" lon="12.4482477">
+    <tag k="amenity" v="university"/>
+  </node>
+  <node id="5859365386" lat="44.9269084" lon="9.9104437">
+    <tag k="addr:city" v="Fiorenzuola d'Arda"/>
+    <tag k="addr:housenumber" v="81"/>
+    <tag k="addr:street" v="Via Genesio Bressani"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Istituto Tecnico Professionale Di Copelli R."/>
+  </node>
+  <node id="5859581215" lat="45.4402705" lon="10.9844491">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università IUSVE - Istituto Salesiano Universitario Venezia"/>
+  </node>
+  <node id="5861308099" lat="48.6592222" lon="6.1521279">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Centre de Formation d'Apprentis de l'Université de Lorraine"/>
+    <tag k="official_name" v="CFA Université de Lorraine"/>
+    <tag k="operator" v="Université de Lorraine"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="phone" v="+33 3 72740420"/>
+    <tag k="short_name" v="CFA Université de Lorraine"/>
+    <tag k="website" v="https://cfa.univ-lorraine.fr"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="5871246987" lat="46.5288516" lon="6.5919006">
+    <tag k="addr:city" v="Renens (VD)"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="Avenue de Longemalle"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Institut fédéral des hautes études en formation professionnelle IFFP"/>
+  </node>
+  <node id="5887231094" lat="45.9003789" lon="11.0342860">
+    <tag k="addr:city" v="Rovereto"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:street" v="Via San Giorgio"/>
+    <tag k="amenity" v="university"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="name" v="LABA Trentino"/>
+    <tag k="operator" v="LABA Trentino S.r.l"/>
+  </node>
+  <node id="5893162499" lat="43.8431241" lon="13.0146341">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università Carlo Bo di Urbino sez. Fano"/>
+  </node>
+  <node id="5901633493" lat="48.2291123" lon="11.6809253">
+    <tag k="addr:city" v="Ismaning"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="85737"/>
+    <tag k="addr:street" v="Steinheilstraße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="DHGS Deutsche Hochschule für Gesundheit und Sport -- Campus Ismaning"/>
+    <tag k="operator" v="DHGS Deutsche Hochschule für Gesundheit und Sport GmbH"/>
+    <tag k="phone" v="+49898898014100"/>
+    <tag k="website" v="https://www.dhgs-hochschule.de"/>
+    <tag k="wikidata" v="Q1622185"/>
+    <tag k="wikipedia" v="de:Deutsche Hochschule für Gesundheit und Sport"/>
+  </node>
+  <node id="5994078029" lat="44.4559811" lon="6.0425633">
+    <tag k="addr:city" v="Tallard"/>
+    <tag k="addr:street" v="Aérocamp"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Polyaéro"/>
+  </node>
+  <node id="6003344339" lat="45.4573650" lon="4.3937674">
+    <tag k="addr:city" v="Saint-Étienne"/>
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:postcode" v="42000"/>
+    <tag k="addr:street" v="Rue des Aciéries"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:website" v="http://www.enise.fr/"/>
+    <tag k="name" v="École Nationale d'Ingénieurs de Saint-Étienne"/>
+    <tag k="short_name" v="ENISE"/>
+  </node>
+  <node id="6024422331" lat="48.3781986" lon="10.0071706">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Hochschule Neu-Ulm, Edison Center"/>
+  </node>
+  <node id="6024424483" lat="46.1980067" lon="6.1336247">
+    <tag k="addr:city" v="Genève"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="1205"/>
+    <tag k="addr:street" v="Boulevard d'Yvoy"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Département de Génétique &amp; Evolution (GenEV)"/>
+    <tag k="website" v="https://genev.unige.ch"/>
+  </node>
+  <node id="6029489006" lat="48.1473605" lon="11.5550200">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Hochschule Macromedia"/>
+    <tag k="wikidata" v="Q1346417"/>
+    <tag k="wikipedia" v="de:Hochschule_Macromedia"/>
+  </node>
+  <node id="6094810979" lat="44.7301386" lon="11.2934391">
+    <tag k="addr:street" v="Via Quattro Novembre"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università Guglielmo Marconi"/>
+    <tag k="operator" v="UniMarconi"/>
+  </node>
+  <node id="6095418582" lat="45.6093248" lon="8.8574643">
+    <tag k="addr:city" v="Busto Arsizio"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="21052"/>
+    <tag k="addr:street" v="Via Alberto da Giussano"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università degli Studi dell'Insubria"/>
+  </node>
+  <node id="6101244529" lat="48.0518206" lon="8.2079741">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="AStA"/>
+  </node>
+  <node id="6260233488" lat="48.4207589" lon="9.9475949">
+    <tag k="addr:city" v="Ulm"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:postcode" v="89081"/>
+    <tag k="addr:street" v="Albert-Einstein-Allee"/>
+    <tag k="amenity" v="university"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Institut für Mikrowellentechnik"/>
+    <tag k="operator" v="Universität Ulm"/>
+    <tag k="website" v="https://www.uni-ulm.de/in/mwt/"/>
+  </node>
+  <node id="6262182243" lat="46.9523275" lon="7.4301376">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Freiestrasse 1, 3012 Bern"/>
+    <tag k="contact:phone" v="+41 31 6314141"/>
+    <tag k="name" v="Theodor Kocher Institut"/>
+    <tag k="operator" v="Uni Bern"/>
+    <tag k="website" v="http://www.tki.unibe.ch/"/>
+  </node>
+  <node id="6262182244" lat="46.9519260" lon="7.4300821">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Bühlstrasse 28, 3012 Bern"/>
+    <tag k="contact:email" v="info@ibmm.unibe.ch"/>
+    <tag k="contact:phone" v="+41 31 6314111"/>
+    <tag k="name" v="Institut für Biochemie und Molekularmedizin"/>
+    <tag k="operator" v="Uni Bern"/>
+    <tag k="website" v="http://www.ibmm.unibe.ch"/>
+  </node>
+  <node id="6262182245" lat="46.9520634" lon="7.4304628">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Bühlplatz 5, 3012 Bern"/>
+    <tag k="contact:phone" v="+41 31 6318711"/>
+    <tag k="name" v="Institut für Physiologie"/>
+    <tag k="operator" v="Uni Bern"/>
+    <tag k="website" v="http://www.physio.unibe.ch"/>
+  </node>
+  <node id="6268215304" lat="48.5192088" lon="9.0505354">
+    <tag k="addr:city" v="Tübingen"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="72070"/>
+    <tag k="addr:street" v="Burgsteige"/>
+    <tag k="amenity" v="university"/>
+    <tag k="email" v="ethnologie@uni-tuebingen.de"/>
+    <tag k="name" v="Asien-Orient-Institut (Ethnologie)"/>
+    <tag k="operator" v="Universität Tübingen"/>
+    <tag k="website" v="https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/aoi/ethnologie/abteilung/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="6275666643" lat="46.9528806" lon="7.4349994">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Hallerstrasse 12, 3012 Bern"/>
+    <tag k="contact:email" v="info@giub.unibe.ch"/>
+    <tag k="contact:fax" v="+41 31 6318511"/>
+    <tag k="contact:phone" v="+41 31 631 88 75"/>
+    <tag k="name" v="Geographisches Institut"/>
+    <tag k="name:de" v="Geographisches Institut"/>
+    <tag k="name:en" v="Institute of Geography"/>
+    <tag k="operator" v="Universität Bern"/>
+    <tag k="operator:en" v="University of Berne"/>
+    <tag k="short_name" v="GIUB"/>
+    <tag k="website" v="http://www.geography.unibe.ch"/>
+  </node>
+  <node id="6313600320" lat="46.9442626" lon="7.4485484">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Helvetiaplatz 2, 3005 Bern"/>
+    <tag k="contact:email" v="info.iwm@phbern.ch"/>
+    <tag k="contact:phone" v="+41 31 3092800"/>
+    <tag k="name" v="Mediothek Institut für Weiterbildung und Medienbildung"/>
+    <tag k="operator" v="PH Bern"/>
+    <tag k="website" v="https://www.phbern.ch/ueber-die-phbern/institute/institut-fuer-weiterbildung-und-medienbildung.html"/>
+  </node>
+  <node id="6339286102" lat="45.0543756" lon="7.6866283">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Dipartimento di Architettura e Design (DAD)"/>
+    <tag k="name:en" v="Department of Architecture and Design (DAD)"/>
+    <tag k="operator" v="PoliTo"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="website" v="http://www.dad.polito.it/"/>
+  </node>
+  <node id="6341718648" lat="48.6798427" lon="8.9995764">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Herman Hollerith Zentrum"/>
+    <tag k="operator" v="Hochschule Reutlingen, Fakultät Informatik; Universität Stuttgart"/>
+  </node>
+  <node id="6344462574" lat="46.2045944" lon="6.1876558">
+    <tag k="addr:city" v="Chêne-Bougeries"/>
+    <tag k="addr:housenumber" v="4bis"/>
+    <tag k="addr:postcode" v="1224"/>
+    <tag k="addr:street" v="Avenue de-Gasparin"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Tai Chi Genève"/>
+    <tag k="operator" v="Yuko Doucet Nagaï"/>
+    <tag k="website" v="https://taichi-geneve.ch"/>
+  </node>
+  <node id="6344468484" lat="46.2054669" lon="6.1858322">
+    <tag k="addr:city" v="Cologny"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:postcode" v="1227"/>
+    <tag k="addr:street" v="Chemin de la Gradelle"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Tai Chi Genève"/>
+    <tag k="operator" v="Yuko Doucet Nagaï"/>
+    <tag k="website" v="https://taichi-geneve.ch"/>
+  </node>
+  <node id="6359356933" lat="43.8010471" lon="11.2867223">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Istituto Universitario Europeo - Convento di San Domenico"/>
+  </node>
+  <node id="6359357161" lat="43.7885072" lon="11.2848823">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Istituto Universitario Europeo - Villa Il Poggiolo"/>
+  </node>
+  <node id="6376571427" lat="46.9535597" lon="7.4403145">
+    <tag k="alt_name" v="Uni Bern"/>
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Schützenmattstrasse 14, 3012 Bern"/>
+    <tag k="contact:email" v="fdn@inf.unibe.ch"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/digitalenachhaltigkeit/"/>
+    <tag k="contact:phone" v="+41 31 6314771"/>
+    <tag k="contact:twitter" v="https://twitter.com/researchdigisus"/>
+    <tag k="name" v="Forschungsstelle Digitale Nachhaltigkeit"/>
+    <tag k="name:de" v="Forschungsstelle Digitale Nachhaltigkeit"/>
+    <tag k="name:en" v="Research center for digital sustainability"/>
+    <tag k="name:fr" v="Centre de recherche sur la durabilité numérique"/>
+    <tag k="short_name" v="FDN"/>
+    <tag k="source" v="survey and website"/>
+    <tag k="website" v="https://www.digitale-nachhaltigkeit.unibe.ch"/>
+    <tag k="wikidata" v="Q63558709"/>
+  </node>
+  <node id="6378024411" lat="47.8851325" lon="10.6032631">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="FH Herrsching Fachbereich Finanzwesen Zweigstelle Kaufbeuren"/>
+  </node>
+  <node id="6380256023" lat="45.1997542" lon="5.7436832">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="IRMaGe - TMS"/>
+  </node>
+  <node id="6380256024" lat="45.1984614" lon="5.7445898">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="IRMaGe - IPA"/>
+  </node>
+  <node id="6401589247" lat="46.9538726" lon="7.4399744">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Universität Bern - Uni Engehalde"/>
+  </node>
+  <node id="6419484449" lat="48.5771478" lon="7.7715760">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="EM Strasbourg Leicester"/>
+    <tag k="operator" v="EM Strasbourg / Université de Strasbourg"/>
+  </node>
+  <node id="6452376641" lat="44.1474777" lon="12.1331199">
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="47032"/>
+    <tag k="addr:street" v="Via Frangipane"/>
+    <tag k="alt_name" v="CEUB"/>
+    <tag k="amenity" v="university"/>
+    <tag k="email" v="segreteria@ceub.it"/>
+    <tag k="name" v="Centro Residenziale Universitario Bertinoro"/>
+    <tag k="note" v="address given in documentation appears to conflict with castle address already on map"/>
+    <tag k="phone" v="+39 0543 446500"/>
+    <tag k="website" v="https://www.ceub.it/"/>
+  </node>
+  <node id="6487424586" lat="43.7189717" lon="10.3975463">
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:street" v="Via Santa Maria"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Dipartimento di filologia, letteratura e linguistica"/>
+    <tag k="operator" v="Università di Pisa"/>
+  </node>
+  <node id="6506146290" lat="48.1497403" lon="11.5687404">
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="80333"/>
+    <tag k="addr:street" v="Arcisstraße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="level" v="1"/>
+    <tag k="name" v="Professur für Siedlungsstruktur und Verkehrsplanung"/>
+    <tag k="website" v="http://www.sv.bgu.tum.de/startseite/"/>
+  </node>
+  <node id="6507747567" lat="45.4346369" lon="12.3223998">
+    <tag k="amenity" v="university"/>
+    <tag k="isced:level" v="6"/>
+    <tag k="name" v="Malcalton Marcorà / Campus Umanistico"/>
+    <tag k="operator" v="Università Ca' Foscari di Venezia"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6544455708" lat="43.6686390" lon="11.1492575">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Azienda Agricola Montepaldi"/>
+    <tag k="operator" v="Università degli Studi di Firenze"/>
+    <tag k="website" v="http://www.villamontepaldi.it/"/>
+  </node>
+  <node id="6577072822" lat="45.1867985" lon="5.7688652">
+    <tag k="addr:city" v="Saint-Martin-d'Hères"/>
+    <tag k="addr:housenumber" v="580"/>
+    <tag k="addr:postcode" v="38400"/>
+    <tag k="addr:street" v="Rue des Universités"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v=" Service Universitaire des Activités Physiques et Sportives"/>
+    <tag k="short_name" v="SUAPS"/>
+    <tag k="website" v="https://suaps.univ-grenoble-alpes.fr/"/>
+  </node>
+  <node id="6583974126" lat="45.4072148" lon="11.8937407">
+    <tag k="amenity" v="university"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Master GIScience e Sistemi a Pilotaggio Remoto"/>
+    <tag k="website" v="http://www.mastergiscience.it"/>
+  </node>
+  <node id="6592942144" lat="44.3931753" lon="7.5475432">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Via Alessandro Ferraris di Celle"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università degli Studi di Torino"/>
+    <tag k="website" v="https://www.unito.it/ateneo/strutture-e-sedi/sedi/sedi-extrametropolitane/cuneo"/>
+  </node>
+  <node id="6606484303" lat="46.8067335" lon="4.4129549">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="département Génie Mécanique et Productique (GMP)"/>
+  </node>
+  <node id="6612679851" lat="44.3925841" lon="7.5515204">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Accademia di Belle Arti"/>
+  </node>
+  <node id="6618810732" lat="43.7099225" lon="7.2902561">
+    <tag k="amenity" v="university"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="name" v="Maison des Sciences de l'Homme et de la Société Sud-Est"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6622511661" lat="45.1949733" lon="5.7717473">
+    <tag k="addr:city" v="Gières"/>
+    <tag k="addr:housenumber" v="570"/>
+    <tag k="addr:postcode" v="38610"/>
+    <tag k="addr:street" v="Rue de la Chimie"/>
+    <tag k="amenity" v="university"/>
+    <tag k="email" v="admin.icmg@univ-grenoble-alpes.fr"/>
+    <tag k="name" v="Laboratoire département de chimie moléculaire"/>
+    <tag k="phone" v="+33 4 56 52 08 61"/>
+    <tag k="website" v="https://icmg.univ-grenoble-alpes.fr/"/>
+    <tag k="wikidata" v="Q51782413"/>
+  </node>
+  <node id="6626959170" lat="45.1934728" lon="5.7707570">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Direction générale déléguée Système d’information"/>
+    <tag k="short_name" v="DGDSI"/>
+  </node>
+  <node id="6626959171" lat="45.1939006" lon="5.7706880">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="DGD AIS"/>
+  </node>
+  <node id="6662374173" lat="46.0657886" lon="13.2326338">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Digital Storytelling Lab &quot;Pino Santoro&quot;"/>
+  </node>
+  <node id="6806472469" lat="48.5798259" lon="7.7747195">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Résidence Les Flamboyants"/>
+    <tag k="operator" v="CROUS Strasbourg"/>
+  </node>
+  <node id="6814250920" lat="44.4967203" lon="11.3516933">
+    <tag k="addr:city" v="Bologna"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="40126"/>
+    <tag k="addr:street" v="Via Zamboni"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Dipartimento di Filosofia e Comunicazione"/>
+    <tag k="operator" v="Alma Mater Studiorum - Università di Bologna"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="website" v="https://dfc.unibo.it/it"/>
+  </node>
+  <node id="6851326132" lat="45.0681729" lon="7.6904749">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Infopoint Unito"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6851439272" lat="45.0675478" lon="7.6916466">
+    <tag k="addr:city" v="Torino"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Via Montebello"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Residenza Universitaria EDISU Stemmi"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="6865960209" lat="43.7344681" lon="7.4178776">
+    <tag k="addr:country" v="MC"/>
+    <tag k="amenity" v="university"/>
+    <tag k="email" v="admissions@monaco.edu"/>
+    <tag k="name" v="International University of Monaco"/>
+    <tag k="name:it" v="Università Internazionale di Monaco"/>
+    <tag k="name:zh" v="摩納哥國際大學"/>
+    <tag k="phone" v="+377 97 986 996"/>
+    <tag k="website" v="https://www.monaco.edu/"/>
+    <tag k="wikidata" v="Q2504327"/>
+    <tag k="wikipedia" v="fr:Université internationale de Monaco"/>
+  </node>
+  <node id="6892727465" lat="46.8543495" lon="9.5089190">
+    <tag k="addr:city" v="Chur"/>
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:postcode" v="7000"/>
+    <tag k="addr:street" v="Pulvermühlestrasse"/>
+    <tag k="amenity" v="university"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Fachhochschule Graubünden, Standort C"/>
+    <tag k="operator" v="Fachhochschule Graubünden"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="website" v="https://www.fhgr.ch/"/>
+  </node>
+  <node id="6892727471" lat="46.8470126" lon="9.5101193">
+    <tag k="addr:city" v="Chur"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="7000"/>
+    <tag k="addr:street" v="Comercialstrasse"/>
+    <tag k="amenity" v="university"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Fachhochschule Graubünden, Standort H"/>
+    <tag k="operator" v="Fachhochschule Graubünden"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="website" v="https://www.fhgr.ch/"/>
+  </node>
+  <node id="6931862083" lat="45.5635496" lon="5.9270881">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="USMB CNFEDS - CENTRE NATIONAL DE FORMATION DES ENSEIGNANTS INTERVENANT AUPRÈS DES JEUNES DÉFICIENTS SENSORIELS"/>
+    <tag k="operator" v="Université Savoie Mont Blanc"/>
+    <tag k="operator:type" v="public"/>
+  </node>
+  <node id="6944502291" lat="45.0536839" lon="7.6853813">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="DIST - Classe Giovanni Astengo"/>
+    <tag k="name:en" v="DIST Active Learning Classroom Giovanni Astengo"/>
+  </node>
+  <node id="6944505643" lat="45.0538745" lon="7.6857546">
+    <tag k="amenity" v="university"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Student Registry Office"/>
+  </node>
+  <node id="6944511712" lat="45.0534539" lon="7.6852432">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Roberto Gabetti Library"/>
+  </node>
+  <node id="6944516128" lat="45.0542201" lon="7.6853460">
+    <tag k="addr:city" v="Torino"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:postcode" v="10125"/>
+    <tag k="addr:street" v="Viale Pier Andrea Mattioli"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Politecnico di Torino - Castello del Valentino"/>
+    <tag k="website" v="https://castellodelvalentino.polito.it/?lang=en"/>
+  </node>
+  <node id="6945638233" lat="45.0535648" lon="7.6851449">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Sala Studio Valentino"/>
+    <tag k="name:en" v="Valentino Study room"/>
+    <tag k="operator" v="PoliTo"/>
+    <tag k="operator:type" v="public"/>
+  </node>
+  <node id="6945671127" lat="45.0538418" lon="7.6859033">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Sala Carlo Mollino"/>
+    <tag k="name:en" v="Carlo Mollino Hall"/>
+  </node>
+  <node id="6984362386" lat="43.7746710" lon="11.2605699">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università degli Studi di Firenze - Dipartimento di Lettere e Filosofia"/>
+  </node>
+  <node id="6997358772" lat="43.6389710" lon="5.1097307">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Aix-Marseille Université"/>
+  </node>
+  <node id="7014977109" lat="45.5614405" lon="10.2323270">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Aula Consiliare"/>
+  </node>
+  <node id="7056633720" lat="47.1400574" lon="7.2424966">
+    <tag k="addr:city" v="Biel/Bienne"/>
+    <tag k="addr:housename" v="Rockhall IV"/>
+    <tag k="addr:housenumber" v="99"/>
+    <tag k="addr:postcode" v="2502"/>
+    <tag k="addr:street" v="Faubourg du Lac / Seevorstadt"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Schweizerisches Literaturinstitut"/>
+    <tag k="name:fr" v="Institut littéraire suisse"/>
+    <tag k="operator" v="Hochschule der Künste Bern"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="website" v="https://www.institutlitteraire.ch/"/>
+  </node>
+  <node id="7057733957" lat="44.0950155" lon="6.2319255">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:housenumber" v="15"/>
+    <tag k="contact:phone" v="+33 4 13 55 23 52"/>
+    <tag k="contact:street" v="Avenue Joseph Reinach"/>
+    <tag k="contact:website" v="http://espe.univ-amu.fr/fr/site-formation-digne-bains"/>
+    <tag k="name" v="Institut National Supérieur du Professorat et de l’Éducation"/>
+    <tag k="old_name" v="IUFM"/>
+    <tag k="operator" v="Aix-Marseille Université"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="short_name" v="INSPE"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"/>
+  </node>
+  <node id="7080823087" lat="48.1521403" lon="11.5815505">
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:postcode" v="80539"/>
+    <tag k="addr:street" v="Ludwigstraße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="email" v="geschaeftsstelle@stat.uni-muenchen.de"/>
+    <tag k="name" v="Institut für Statistik, Ludwig Maximilians Universität, München"/>
+    <tag k="name:en" v="Department of Statistics, Ludwig Maximilians Universität, Munich"/>
+    <tag k="phone" v="+498921803195"/>
+    <tag k="website" v="Statistik.lmu.de"/>
+  </node>
+  <node id="7083769430" lat="48.3947974" lon="11.7292737">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Ernährung, Landnutzung und Umwelt"/>
+    <tag k="official_name" v="Wissenschaftszentrum Weihenstephan für Ernährung, Landnutzung und Umwelt"/>
+    <tag k="operator" v="Technische Universität München"/>
+    <tag k="website" v="http://www.wzw.tum.de/"/>
+    <tag k="wikidata" v="Q1431993"/>
+  </node>
+  <node id="7084277426" lat="44.3886595" lon="7.5487845">
+    <tag k="addr:housenumber" v="4bis"/>
+    <tag k="addr:street" v="Via Goffredo Mameli"/>
+    <tag k="amenity" v="university"/>
+    <tag k="email" v="segreteriacuneo@istitutossml.it"/>
+    <tag k="name" v="Scuola Superiore per Mediatori Linguistici &quot;Adriano Macagno&quot;"/>
+    <tag k="phone" v="+39 0171 500204"/>
+    <tag k="website" v="https://www.istitutomediatorilinguistici.com/"/>
+  </node>
+  <node id="7095256446" lat="46.1976384" lon="6.1331794">
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Quai Ernest Ansermet"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Bioimaging Center"/>
+    <tag k="website" v="https://bioimaging.unige.ch/"/>
+  </node>
+  <node id="7118719982" lat="46.5246335" lon="6.6393129">
+    <tag k="addr:city" v="Lausanne"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="1011"/>
+    <tag k="addr:street" v="Rue du Bugnon"/>
+    <tag k="amenity" v="university"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Décanat de la Faculté de Biologie et de Médecine"/>
+    <tag k="operator" v="CHUV"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="website" v="https://unil.ch/fbm"/>
+  </node>
+  <node id="7121906353" lat="46.0818840" lon="13.2165905">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Dipartimento di Chimica, Fisica e Ambiente - Sezione di Scienze e Tecnologie Chimiche - Uffici"/>
+  </node>
+  <node id="7121906354" lat="46.0819532" lon="13.2163952">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Aula studio Cotonificio"/>
+  </node>
+  <node id="7190476762" lat="43.9376895" lon="12.4449147">
+    <tag k="addr:city" v="Città di San Marino"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="47890"/>
+    <tag k="addr:street" v="Contrada Omerelli"/>
+    <tag k="alt_name" v="design.unirsm"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università della Repubblica di San Marino"/>
+    <tag k="name:ar" v="جامعة جمهورية سان مارينو"/>
+    <tag k="name:fa" v="دانشگاه جمهوری سان مارینو"/>
+    <tag k="name:pl" v="Uniwersytet San Marino"/>
+    <tag k="name:ps" v="د سان مارینو جمهوریت پوهنتون"/>
+    <tag k="name:ur" v="جمہوریہ سان مارینو کی یونیورسٹی"/>
+    <tag k="operator" v="Università della Repubblica di San Marino"/>
+    <tag k="source" v="https://mappeonline.pa.sm/maps/prgmobile/"/>
+    <tag k="website" v="http://design.unirsm.sm"/>
+    <tag k="wikidata" v="Q796723"/>
+  </node>
+  <node id="7218166539" lat="47.5581343" lon="7.5852414">
+    <tag k="addr:city" v="Basel"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="4051"/>
+    <tag k="addr:street" v="Nadelberg"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Theologische Fakultät"/>
+    <tag k="operator" v="Universität Basel"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="phone" v="+41 61 207 29 00"/>
+    <tag k="website" v="https://theologie.unibas.ch/"/>
+  </node>
+  <node id="7230742338" lat="45.7512775" lon="4.8400847">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Institut international pour la Francophonie"/>
+    <tag k="operator" v="Université Jean Moulin Lyon III"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="phone" v="+33 4 78 78 73 73"/>
+    <tag k="website" v="https://2if.universite-lyon.fr/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q50231792"/>
+  </node>
+  <node id="7235704223" lat="48.1286529" lon="11.5446179">
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="80339"/>
+    <tag k="addr:street" v="Theresienhöhe"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="EU Business School"/>
+    <tag k="website" v="https://eumunich.com/"/>
+  </node>
+  <node id="7278477253" lat="46.9555881" lon="7.4362804">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Mittelstrasse 43, 3012 Bern"/>
+    <tag k="contact:phone" v="+41 31 6314741"/>
+    <tag k="name" v="Institut für Kunstgeschichte"/>
+    <tag k="operator" v="Universität Bern"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="short_name" v="IKG"/>
+    <tag k="website" v="https://www.ikg.unibe.ch"/>
+  </node>
+  <node id="7285760848" lat="43.7645026" lon="11.2597471">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università degli Studi di Firenze - Dipartimento di Architettura - Palazzo Vegni"/>
+  </node>
+  <node id="7285889226" lat="43.7748186" lon="11.2600046">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università degli Studi di Firenze - Dipartimento di Architettura - Ex Convento degli Angeli"/>
+    <tag k="survey:date" v="2020-10-21"/>
+  </node>
+  <node id="7285918788" lat="43.7773203" lon="11.2590554">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Accademia di Belle Arti di Firenze"/>
+    <tag k="website" v="http://www.accademia.firenze.it/"/>
+  </node>
+  <node id="7288077288" lat="43.7701852" lon="11.2903380">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università degli Studi di Firenze - Dipartimento di Formazione, Lingue, Intercultura, Letterature e Psicologia - Sede San Salvi"/>
+  </node>
+  <node id="7288512936" lat="43.8166779" lon="11.1998282">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università degli Studi di Firenze - Dipartimento di Scienze e Tecnologie Agrarie, Alimentari Ambientali e Forestali - Sede Sesto Fiorentino"/>
+  </node>
+  <node id="7288512937" lat="43.8204263" lon="11.1941665">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università degli Studi di Firenze - Dipartimento di Scienze e Tecnologie Agrarie, Alimentari Ambientali e Forestali - SAGT"/>
+  </node>
+  <node id="7288575877" lat="43.7496901" lon="11.2517071">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="The Galileo Galilei Institute for Theoretical Physics"/>
+    <tag k="website" v="https://www.ggi.infn.it"/>
+    <tag k="wikipedia" v="en:Galileo Galilei Institute for Theoretical Physics"/>
+  </node>
+  <node id="7288582892" lat="43.7490467" lon="11.2518603">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Istituto Nazionale di Ottica"/>
+  </node>
+  <node id="7288582899" lat="43.7492851" lon="11.2513799">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Istituto Nazionale di Fisica Nucleare"/>
+  </node>
+  <node id="7297491224" lat="43.7757339" lon="11.2608794">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università degli Studi di Firenze - Centro Linguistico di Ateneo"/>
+  </node>
+  <node id="7379273259" lat="45.7492687" lon="4.8378091">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="École notariale, UMR 5600"/>
+  </node>
+  <node id="7462347331" lat="45.7211580" lon="4.9175695">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="UFR anthropologie, sociologie, science politique"/>
+    <tag k="ref:UAI" v="0692198P"/>
+    <tag k="short_name" v="UFR ASSP"/>
+    <tag k="source" v="Etablissements d'enseignement supérieur - 09/2017"/>
+  </node>
+  <node id="7463149463" lat="45.7227980" lon="4.9165209">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="UFR lettres, sciences du langage et arts"/>
+    <tag k="ref:UAI" v="0692204W"/>
+    <tag k="short_name" v="UFR LESLA"/>
+    <tag k="source" v="Etablissements d'enseignement supérieur - 09/2017"/>
+  </node>
+  <node id="7463183549" lat="45.7193429" lon="4.9189040">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Centre de Langues"/>
+    <tag k="ref:UAI" v="0692207Z"/>
+    <tag k="short_name" v="CDL"/>
+    <tag k="source" v="Etablissements d'enseignement supérieur - 09/2017"/>
+  </node>
+  <node id="7469510151" lat="45.7212175" lon="4.9176705">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Institut de Psychologie"/>
+    <tag k="ref:UAI" v="0692429R"/>
+    <tag k="source" v="Etablissements d'enseignement supérieur - 09/2017"/>
+  </node>
+  <node id="7469549141" lat="45.7207406" lon="4.9180924">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Institut de la communication"/>
+    <tag k="ref:UAI" v="0693410G"/>
+    <tag k="short_name" v="ICOM"/>
+    <tag k="source" v="Etablissements d'enseignement supérieur - 09/2017"/>
+  </node>
+  <node id="7469554734" lat="45.7201820" lon="4.9173755">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="UFR droit et science politique"/>
+    <tag k="ref:UAI" v="0692452R"/>
+    <tag k="source" v="Etablissements d'enseignement supérieur - 09/2017"/>
+  </node>
+  <node id="7471326776" lat="45.5593951" lon="5.9137018">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Service des Sports de l'USMB (SDS)"/>
+    <tag k="operator" v="Université Savoie Mnnt Blanc"/>
+  </node>
+  <node id="7471326777" lat="45.5588381" lon="5.9116408">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="ACCENTS - Centre de FLE"/>
+    <tag k="operator" v="Université Savoie Mont Blanc"/>
+  </node>
+  <node id="7471326778" lat="45.5597700" lon="5.9098504">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="IAE Savoie Mont Blanc"/>
+    <tag k="operator" v="Université Savoie Mont Blanc"/>
+  </node>
+  <node id="7471326779" lat="45.5597730" lon="5.9094213">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="IAE Savoie Mont Blanc"/>
+    <tag k="operator" v="Université Savoie Mont Blanc"/>
+  </node>
+  <node id="7471326780" lat="45.5578002" lon="5.9137500">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Faculté de Droit"/>
+    <tag k="operator" v="Université Savoie Mont Blanc"/>
+  </node>
+  <node id="7471326781" lat="45.5580530" lon="5.9135038">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="UFR Lettres, Langues et Sciences Humaines"/>
+    <tag k="operator" v="Université Savoie Mont Blanc"/>
+    <tag k="ref:UAI" v="0731384H"/>
+    <tag k="short_name" v="UFR LLSH"/>
+    <tag k="source" v="Établissements d'enseignement supérieur - 09/2017"/>
+  </node>
+  <node id="7471326782" lat="45.5583571" lon="5.9114684">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Centre Audiovisuel Joseph Monin"/>
+    <tag k="operator" v="Université Savoie Mont Blanc"/>
+  </node>
+  <node id="7471326783" lat="45.5584592" lon="5.9112819">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Service Formation Continue"/>
+    <tag k="operator" v="Université Savoie Mont Blanc"/>
+  </node>
+  <node id="7471328042" lat="45.5578978" lon="5.9123780">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Service de Santé des Etudiants"/>
+    <tag k="operator" v="Université Savoie Mont Blanc"/>
+  </node>
+  <node id="7473273493" lat="45.5578969" lon="5.9110969">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Scolarité de site de Jacob-Bellecombette"/>
+  </node>
+  <node id="7474202014" lat="45.6415138" lon="5.8703778">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Scolarité de Site"/>
+    <tag k="operator" v="Université Savoie Mont Blanc"/>
+  </node>
+  <node id="7542357026" lat="48.5196760" lon="9.0506728">
+    <tag k="addr:city" v="Tübingen"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="72070"/>
+    <tag k="addr:street" v="Burgsteige"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Institut für Klassische Archäologie"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-20:00; Sa, Su, PH off"/>
+    <tag k="operator" v="Universität Tübingen"/>
+    <tag k="phone" v="+49 7071 2978546"/>
+    <tag k="website" v="https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/altertums-und-kunstwissenschaften/institut-fuer-klassische-archaeologie/institut.html"/>
+  </node>
+  <node id="7549166005" lat="46.9461685" lon="7.4368209">
+    <tag k="addr:full" v="Maulbeerstrasse 3, 3011 Bern"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Hörsaal Universität Bern"/>
+  </node>
+  <node id="7557062903" lat="45.0462545" lon="9.7026275">
+    <tag k="addr:city" v="Piacenza"/>
+    <tag k="addr:housenumber" v="85"/>
+    <tag k="addr:street" v="Stradone Farnese"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Urban Center Politecnico di Milano Campus"/>
+  </node>
+  <node id="7581256298" lat="45.1396647" lon="10.0162777">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Dipartimento di Musicologia e Beni Culturali, Università di Pavia"/>
+  </node>
+  <node id="7593158523" lat="48.8944122" lon="11.1795692">
+    <tag k="amenity" v="university"/>
+    <tag k="description" v="Stabsabteilung Bildungsinnovation &amp; Wissenstransfer&#xA;Projekt Mensch in Bewegung"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="name" v="KU.impact Büro"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-18:00"/>
+    <tag k="operator" v="Katholische Universität Eichstätt-Ingolstadt"/>
+    <tag k="website" v="https://www.ku.de/unsere-ku/campus/lageplan/am-anger18/"/>
+  </node>
+  <node id="7608721415" lat="46.9470470" lon="7.4467306">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Kochergasse 4, 3011 Bern"/>
+    <tag k="contact:email" v="info@wyssacademy.ch"/>
+    <tag k="contact:phone" v="+41 31 631 63 00"/>
+    <tag k="name" v="Wyss Academy for Nature"/>
+    <tag k="website" v="https://www.wyssacademy.ch"/>
+  </node>
+  <node id="7756639637" lat="46.9558065" lon="7.4358973">
+    <tag k="amenity" v="university"/>
+    <tag k="contact:addr" v="Mittelstrasse 43, 3012 Bern"/>
+    <tag k="contact:email" v="info@ispm.unibe.ch"/>
+    <tag k="contact:phone" v="+41 31 631 35 11"/>
+    <tag k="name" v="Institut für Sozial- und Präventivmedizin"/>
+    <tag k="name:en" v="Institute of Social and Preventive Medicine"/>
+    <tag k="operator" v="Universität Bern"/>
+    <tag k="website" v="https://www.ispm.unibe.ch/"/>
+  </node>
+  <node id="7775227542" lat="46.5235120" lon="6.6106804">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Gymnase Provence"/>
+    <tag k="website" v="https://www.gymnaseprovence.ch/"/>
+  </node>
+  <node id="7775849853" lat="48.1460455" lon="11.5676271">
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housename" v="Führerbau"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="80333"/>
+    <tag k="addr:street" v="Arcisstraße"/>
+    <tag k="amenity" v="university"/>
+    <tag k="heritage" v="8"/>
+    <tag k="name" v="Hochschule für Musik und Theater"/>
+    <tag k="short_name" v="HMTM"/>
+    <tag k="website" v="http://www.musikhochschule-muenchen.de/"/>
+    <tag k="wikidata" v="Q657167"/>
+    <tag k="wikipedia" v="de:Hochschule für Musik und Theater München"/>
+    <tag k="year_of_construction" v="1937"/>
+  </node>
+  <node id="7786749397" lat="47.1419539" lon="10.5609606">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="UMIT Landeck"/>
+  </node>
+  <node id="7913764108" lat="44.4979589" lon="11.3559154">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università di Bologna - Dipartimento di Matematica"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="7913764109" lat="44.4982105" lon="11.3553470">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università di Bologna - Dipartimento di Mineralogia"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="7935661543" lat="45.7631192" lon="4.8432268">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="École de Psychologues praticiens"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="ref:UAI" v="0693691M"/>
+    <tag k="short_name" v="EPP"/>
+    <tag k="website" v="https://www.psycho-prat.fr/"/>
+  </node>
+  <node id="7968669987" lat="47.7282393" lon="7.3102896">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="CLOUS de Mulhouse"/>
+  </node>
+  <node id="8079202102" lat="45.3865034" lon="11.9107930">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Dipartimento ICEA, sede di Lungargine Rovetta, Univeristà di Padova"/>
+  </node>
+  <node id="8079202103" lat="45.3871175" lon="11.9108024">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Laboratorio di Propulsione Aerospaziale - Università di Padova"/>
+  </node>
+  <node id="8143714328" lat="48.1481088" lon="11.5650422">
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Hochschule für Musik und Theater — Standort Luisenstraße"/>
+  </node>
+  <node id="8143714329" lat="48.1455784" lon="11.5681203">
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Hochschule für Musik und Theater — Gebäude C"/>
+  </node>
+  <node id="8165402622" lat="47.1410930" lon="10.5608387">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="UMIT Landeck Neubau"/>
+  </node>
+  <node id="8196054793" lat="47.2279522" lon="11.3859900">
+    <tag k="amenity" v="university"/>
+    <tag k="isced:level" v="5"/>
+    <tag k="name" v="Außenstelle Universität Innsbruck"/>
+  </node>
+  <node id="8234169809" lat="43.8689423" lon="4.4450136">
+    <tag k="addr:city" v="Marguerittes"/>
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:postcode" v="30320"/>
+    <tag k="addr:street" v="Allée Jacques Cartier"/>
+    <tag k="amenity" v="university"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="name" v="Purple Campus Marguerittes"/>
+    <tag k="operator" v="Purple Campus Occitanie"/>
+    <tag k="operator:type" v="association"/>
+  </node>
+  <node id="8238083087" lat="47.3989336" lon="8.4580395">
+    <tag k="addr:city" v="Schlieren"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="8952"/>
+    <tag k="addr:street" v="Wagistrasse"/>
+    <tag k="amenity" v="university"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="customers"/>
+    <tag k="name" v="Institute of Medical Genetics, UZH"/>
+    <tag k="operator" v="University of Zurich"/>
+    <tag k="phone" v="+41 44 556 33 00"/>
+    <tag k="website" v="https://www.medgen.uzh.ch"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="8248211495" lat="46.7813108" lon="6.6473867">
+    <tag k="addr:city" v="Yverdon-les-Bains"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="1401"/>
+    <tag k="addr:street" v="Avenue des Sports"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Campus de Saint-Roch"/>
+    <tag k="opening_hours" v="Mo,Tu,Fr 08:00-12:00,13:30-17:00"/>
+    <tag k="operator" v="Haute École d'ingénierie et de gestion du canton de Vaud"/>
+    <tag k="operator:de" v="Hochschule für Wirtschaft und Ingenieurwissenschaften des Kantons Waadt"/>
+    <tag k="operator:en" v="School of Business and Engineering Vaud"/>
+    <tag k="operator:short_name" v="HEIG-VD"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="operator:wikidata" v="Q3128583"/>
+    <tag k="operator:wikipedia" v="fr:Haute École d'ingénierie et de gestion du canton de Vaud"/>
+    <tag k="phone" v="+41 24 557 76 00"/>
+    <tag k="short_name" v="HEIG-VD St-Roch"/>
+    <tag k="website" v="https://heig-vd.ch/"/>
+  </node>
+  <node id="8248672251" lat="46.7647410" lon="6.6469398">
+    <tag k="addr:city" v="Yverdon-les-Bains"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="1400"/>
+    <tag k="addr:street" v="Rue Galilée"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Campus d'Y-Parc"/>
+    <tag k="operator" v="Haute École d'ingénierie et de gestion du canton de Vaud"/>
+    <tag k="operator:de" v="Hochschule für Wirtschaft und Ingenieurwissenschaften des Kantons Waadt"/>
+    <tag k="operator:en" v="School of Business and Engineering Vaud"/>
+    <tag k="operator:short_name" v="HEIG-VD"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="operator:wikidata" v="Q3128583"/>
+    <tag k="operator:wikipedia" v="fr:Haute École d'ingénierie et de gestion du canton de Vaud"/>
+    <tag k="phone" v="+41 24 557 27 50"/>
+    <tag k="short_name" v="HEIG-VD Y-Parc"/>
+    <tag k="website" v="https://heig-vd.ch/"/>
+  </node>
+  <node id="8285161077" lat="48.1427164" lon="11.5688847">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Fakultät für Architektur, Fakultät für Bauingenierwesen, Fakultät für Geoinformation"/>
+    <tag k="operator" v="Hochschule für angewandte Wissenschaften München"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="website" v="https://www.hm.edu/"/>
+  </node>
+  <node id="8294687578" lat="46.3785437" lon="7.6265872">
+    <tag k="amenity" v="university"/>
+    <tag k="name:de" v="Hochschule für Gesundheit FH Wallis - HES-SO Valais-Wallis"/>
+    <tag k="operator" v="HES-SO Valais"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="website" v="https://www.hevs.ch/de/hochschule/hochschule-fur-gesundheit/physiotherapie/"/>
+  </node>
+  <node id="8330656238" lat="44.7298803" lon="4.5902199">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Ardèche Campus Connecté"/>
+    <tag k="short_name" v="A2C"/>
+    <tag k="website" v="https://www.ardeche.fr/1603-ardeche-campus-connecte-a2c.htm"/>
+  </node>
+  <node id="8335898362" lat="44.5644828" lon="4.7521864">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Institut de formation en soins infirmiers"/>
+    <tag k="short_name" v="IFSI"/>
+    <tag k="source" v="BDTopo IGN"/>
+  </node>
+  <node id="8411678354" lat="48.2494526" lon="11.6339623">
+    <tag k="addr:city" v="Garching bei München"/>
+    <tag k="addr:housenumber" v="35-39"/>
+    <tag k="addr:postcode" v="85748"/>
+    <tag k="addr:street" v="Parkring"/>
+    <tag k="amenity" v="university"/>
+    <tag k="building:levels" v="4"/>
+    <tag k="height" v="18"/>
+    <tag k="name" v="Technische Universität München - Fakultät für Maschinenwesen"/>
+    <tag k="roof:colour" v="grey"/>
+    <tag k="roof:shape" v="flat"/>
+    <tag k="start_date" v="2001-11-15"/>
+  </node>
+  <node id="8420495166" lat="45.7486905" lon="4.8605689">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="iaelyon School of Management"/>
+    <tag k="operator" v="Université Jean Moulin Lyon 3"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="website" v="https://iae.univ-lyon3.fr/"/>
+  </node>
+  <node id="8438564031" lat="47.4944544" lon="6.8049119">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Institut de Formation en Soins Infirmiers"/>
+  </node>
+  <node id="8456599586" lat="45.9204791" lon="6.1532450">
+    <tag k="addr:city" v="Annecy"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="74942"/>
+    <tag k="addr:street" v="Rue de l'Arc en Ciel"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="IUT Annecy"/>
+    <tag k="operator" v="Université Savoie Mont Blanc"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="website" v="https://www.iut-acy.univ-smb.fr/"/>
+    <tag k="wikidata" v="Q3152671"/>
+  </node>
+  <node id="8496468303" lat="45.0494177" lon="7.6817014">
+    <tag k="amenity" v="university"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="customers"/>
+    <tag k="name" v="Aule Torino Esposizioni"/>
+    <tag k="operator" v="Università di Torino"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="website" v="https://www.unito.it/ateneo/strutture-e-sedi/sedi/piano-di-sviluppo-edilizio/progetti-di-edilizia-universitaria/nuove"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="8531098344" lat="45.6395513" lon="5.8726135">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="USMB Bâtiment 1 - Espace sportif Émile Allais"/>
+    <tag k="operator" v="Université Savoie Mont Blanc - USMB"/>
+  </node>
+  <node id="8599903439" lat="47.3139860" lon="5.0645028">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="UFR Sciences Humaines"/>
+    <tag k="ref:UAI" v="0211316S"/>
+    <tag k="source" v="Etablissements d'enseignement supérieur - 09/2017"/>
+  </node>
+  <node id="8640162470" lat="47.7388703" lon="7.3321469">
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Faculté des Sciences économiques, sociales et juridiques"/>
+    <tag k="operator" v="Université de Haute-Alsace"/>
+  </node>
+
+</osm>
