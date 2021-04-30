@@ -7,3 +7,5 @@ J'ai trouvé un jeu de données sur les personnes dont les métiers sont dans le
 Je vais donc voir si les données sont utilisables et étudié ce que je vais en faire.
 ## 30 avril
 J'aimerais faire un camembert représentant la répartition homme/femme dans le domaine des médias en Suisse. Pourquoi pas voir l'évolution dans les années. 
+J'aimerais aussi voir l'évolution de la répartition et l'augmentation des personnes dans le domaine des médias, en utilisant les classes de professions. Cela permettrait de savoir les tendances de métiers suivant les époques.
+La troisième chose que j'aimerais observer est la repartition géographique en Suisse des personnes travaillants dans les médias. Je verrais bien une carte de la suisse avec la densité.
