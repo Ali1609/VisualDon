@@ -1,0 +1,44 @@
+<html>
+
+<body>
+    <canvas id="mon-dessin" width="500" height="300"></canvas>
+    <script>
+
+        const canvas = document.getElementById('mon-dessin')
+        // définir la taille du canvas
+        const WIDTH = 1000
+        const HEIGHT = 500
+        canvas.setAttribute('width', WIDTH)
+        canvas.setAttribute('height', HEIGHT)
+        const center = { x: WIDTH / 2, y: HEIGHT / 2 }
+
+        const context = canvas.getContext('2d')
+
+        // un cercle jaune fixe
+        context.beginPath()
+        context.arc(center.x, center.y, HEIGHT / 3, 0, Math.PI * 2)
+        context.fillStyle = 'pink'
+        context.fill()
+
+        // premier oeil
+        context.beginPath()
+        context.arc(WIDTH / 2.2, HEIGHT / 2.5, 15, 0, Math.PI * 2)
+        context.fillStyle = 'black'
+        context.fill()
+
+        // clin d'oeil
+        context.beginPath()
+        context.arc(WIDTH / 1.8, HEIGHT / 2.6, 20, 0.3, 2.8)
+        context.lineWidth = 3
+        context.stroke() 
+
+        // un arc où le rayon et l'angle d'arrivée sont le résultat des "sliders" plus haut
+        context.beginPath()
+        context.arc(WIDTH / 2, HEIGHT / 2, 90, 0.4, 2.7)
+        context.lineWidth = 5
+        context.stroke()  
+
+    </script>
+</body>
+
+</html>
