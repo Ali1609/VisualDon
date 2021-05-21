@@ -16,6 +16,8 @@ Premier graphique : graphique en bâtons (personnes actives par année) avec deu
 
 Deuxième graphique : camembert représentant les hommes/femmes -> ce camembert sera animé et changera tous les tant de temps pour représenter la répartition des sexes dans le temps
 
-Troisième graphique : podium des 3 métiers qui ont le plus de personnes actives -> animé également pour montrer l'évolution dans les années
+Troisième graphique : podium des 3 métiers qui ont le plus de personnes actives -> animé également pour montrer l'évolution dans les années 
 
 Le but du projet est de montrer l'évolution des métiers dans le domaine des médias, qui sera important pour nous plus tard.
+
+Utilisation de Svelte et d3
