@@ -21,3 +21,9 @@ Troisième graphique : podium des 3 métiers qui ont le plus de personnes active
 Le but du projet est de montrer l'évolution des métiers dans le domaine des médias, qui sera important pour nous plus tard.
 
 Utilisation de Svelte et d3
+
+## 27 juin
+
+**Lien du site déployé :** [visualdon-alison.netlify.app](https://visualdon-alison.netlify.app)
+
+Je trouvais cela intéressant d'utiliser et mettre en évidence ces données sachant que nous jouerons bientôt un rôle dans ce domaine. La première partie avec les trois premiers graphiques sert à introduire le sujet et montrer la réalité dans cette branche professionnelle. La deuxième partie (avec les 4 derniers graphiques) est là afin d'indiquer aux futurs ingénieurs des médias les métiers et langues qui sont populaires dans ce domaine.
